@@ -7,7 +7,7 @@ venue: 'In Proceedings of The International Workshop on Semantic Evaluation (Sem
 date: 2018-01-01
 paperurl: 'https://www.aclweb.org/anthology/S18-1037'
 
-citation: 'Christos Baziotis, Nikos Athanasiou, Alexandra Chronopoulou, Athanasia Kolovou, Georgios Paraskevopoulos, Nikolaos Ellinas, Shrikanth Narayanan, Alexandros Potamianos. 1(6).'
+citation: 'Christos Baziotis, Nikos Athanasiou, Alexandra Chronopoulou, Athanasia Kolovou, Georgios Paraskevopoulos, Nikolaos Ellinas, Shrikanth Narayanan, Alexandros Potamianos'
 ---
 
 
