@@ -1,5 +1,5 @@
 ---
-title: "Domain Adversarial Fine-Tuning as an Effective Regularizer (to appear)"
+title: "Domain Adversarial Fine-Tuning as an Effective Regularizer"
 collection: publications
 permalink: /publication/emnlp2020findings
 venue: 'In Proceedings of the Findings of the Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)'
