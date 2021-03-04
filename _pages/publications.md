@@ -28,7 +28,7 @@ author_profile: true
           <u>Alexandra Chronopoulou</u>, Dario Stojanovski, Viktor Hangya and Alexander Fraser. <br/>
           WMT 2020.<br/>
           [<a href="https://www.aclweb.org/anthology/2020.wmt-1.128.pdf" class="link-in-list">paper</a>]
-          [<a href="https://github.com/alexandra-chron/umt-lmu-wmt2020" class="link-in-list">data</a>]
+          [<a href="https://github.com/alexandra-chron/umt-lmu-wmt2020" class="link-in-list">code</a>]
           [<a href="https://drive.google.com/file/d/1gZvhZd5TW3z7VJubts13Y35L8H1mbBT1/view?usp=sharing" class="link-in-list">slides</a>]
          [<a href="https://drive.google.com/file/d/1bTjshwr8amPLyxlPzVDEcB6DtA4vjVUX/view?usp=sharing" class="link-in-list">poster</a>]
         </li>
