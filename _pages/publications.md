@@ -13,8 +13,8 @@ author_profile: true
           <u>Alexandra Chronopoulou</u>, Dario Stojanovski and Alexander Fraser. <br/>
           EMNLP 2020.<br/>
           [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf" class="link-in-list">paper</a>]
-          [<a href="https://github.com/alexandra-chron/relm_unmt" class="link-in-list">data/code</a>]
-          [<a href="https://drive.google.com/file/d/1HJ_5g_TifOSXUpUeHbDg4c3tyhZew_GD/view?usp=sharing" class="link-in-list">data/slides</a>]
+          [<a href="https://github.com/alexandra-chron/relm_unmt" class="link-in-list">code</a>]
+          [<a href="https://drive.google.com/file/d/1HJ_5g_TifOSXUpUeHbDg4c3tyhZew_GD/view?usp=sharing" class="link-in-list">slides</a>]
         </li>
         <li>
           <b>Domain Adversarial Fine-Tuning as an Effective Regularizer</b> <br/>
@@ -41,7 +41,7 @@ author_profile: true
         <li>
           <b>An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</b> <br/>
           <u>Alexandra Chronopoulou</u>, Christos Baziotis and Alexandros Potamianos. <br/>
-          SemEval 2018.<br/>
+          NAACL 2019.<br/>
           [<a href="https://www.aclweb.org/anthology/N19-1213.pdf" class="link-in-list">paper</a>]
           [<a href="https://github.com/alexandra-chron/siatl" class="link-in-list">code</a>]
         </li>
