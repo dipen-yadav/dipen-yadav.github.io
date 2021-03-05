@@ -35,7 +35,7 @@ author_profile: true
         <li>
           <b>Transfer Learning with Deep Neural Networks for Sentiment Analysis and Semantic Modeling</b> <br/>
           <u>Alexandra Chronopoulou</u>. <br/>
-          National Techical University of Athens.<br/>
+          National Technical University of Athens.<br/>
           [<a href="https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/49039/diplomatiki_achronopoulou.pdf?sequence=1" class="link-in-list">thesis (in Greek)</a>]
         </li>
         <li>
