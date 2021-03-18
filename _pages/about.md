@@ -15,4 +15,4 @@ I am a second-year PhD student in the [Center for Information and Language Proce
 
  <h2>News</h2>
 
-<b>March 2021<b>: Our paper "Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation" has been accepted to appear in NAACL 2021!
+<b>March 2021</b>: Our paper "Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation" has been accepted to appear in NAACL 2021!
