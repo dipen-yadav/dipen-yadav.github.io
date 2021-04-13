@@ -8,7 +8,13 @@ author_profile: true
   You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=XiwRCRIAAAAJ&hl=en) profile.
 
 <ul class="sparse-list">
-  
+          <li>
+          <b>Improving the Lexical Ability of Pretrained Language Models \\ for Unsupervised Neural Machine Translation</b> <br/>
+          <u>Alexandra Chronopoulou</u>, Dario Stojanovski and Alexander Fraser. <br/>
+          NAACL 2021 (to appear).<br/>
+          [<a href="https://arxiv.org/abs/2103.10531">arXiv preprint</a>]
+          [<a href="https://github.com/alexandra-chron/lexical_xlm_relm" class="link-in-list">code</a>]
+        </li>
         <li>
           <b>Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT</b> <br/>
           <u>Alexandra Chronopoulou</u>, Dario Stojanovski and Alexander Fraser. <br/>
