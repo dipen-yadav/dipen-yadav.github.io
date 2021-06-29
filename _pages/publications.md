@@ -11,8 +11,8 @@ author_profile: true
           <li>
           <b>Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</b> <br/>
           <u>Alexandra Chronopoulou</u>, Dario Stojanovski and Alexander Fraser. <br/>
-          NAACL 2021 (to appear).<br/>
-          [<a href="https://arxiv.org/abs/2103.10531">arXiv preprint</a>]
+          NAACL 2021.<br/>
+          [<a href="https://www.aclweb.org/anthology/2021.naacl-main.16.pdf">paper</a>]
           [<a href="https://github.com/alexandra-chron/lexical_xlm_relm" class="link-in-list">code</a>]
         </li>
         <li>
