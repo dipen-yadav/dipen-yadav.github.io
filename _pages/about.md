@@ -15,6 +15,8 @@ I am a second-year PhD student in the [Center for Information and Language Proce
 
  <h2>News</h2>
 
+<b>July 2021</b>: Excited to share that I will be starting a research internship in AllenAI in July, working with [Jesse Dodge](http://www.cs.cmu.edu/~jessed/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en)!
+
 <b>March 2021</b>: Our paper "Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation" has been accepted to appear in NAACL 2021!
 
 <b>September 2020</b>: Our paper "Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT" has been accepted to appear in EMNLP 2020! Also, our work "Domain Adversarial Fine-Tuning as an Effective Regularizer" was accepted in the findings of EMNLP.
