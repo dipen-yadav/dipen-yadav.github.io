@@ -8,6 +8,12 @@ author_profile: true
   You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=XiwRCRIAAAAJ&hl=en) profile.
 
 <ul class="sparse-list">
+            <li>
+          <b>Efficient Hierarchical Domain Adaptation for Pretrained Language Models</b> <br/>
+          <u>Alexandra Chronopoulou</u>, Matthew E. Peters and Jesse Dodge. <br/>
+          arXiv preprint.<br/>
+          [<a href="https://arxiv.org/pdf/2112.08786.pdf">paper</a>]
+        </li>
           <li>
           <b>Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</b> <br/>
           <u>Alexandra Chronopoulou</u>, Dario Stojanovski and Alexander Fraser. <br/>

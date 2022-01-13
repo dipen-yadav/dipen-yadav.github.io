@@ -14,6 +14,7 @@ I am a third-year PhD student in the [Center for Information and Language Proces
  Before that, I completed my diploma (combined BEng and MEng) at the [National Technical University of Athens](https://www.ntua.gr/en/) in Athens, Greece, department of [Electrical and Computer Engineering](https://www.ece.ntua.gr/en). In my thesis, I explored ways of improving transfer learning with language Modeling for several classification tasks, most notably on emotion recognition, under the supervision of [Alex Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en). 
 
  <h2>News</h2>
+<b>December 2021</b>: Our pre-print on [efficient domain adaptation of language models](https://arxiv.org/pdf/2112.08786.pdf) is out. This project is the result of my internship in AllenAI. 
 
 <b>July 2021</b>: Excited to share that I will be starting a research internship in AllenAI in July, working with [Jesse Dodge](http://www.cs.cmu.edu/~jessed/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en)!
 
