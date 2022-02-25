@@ -34,7 +34,7 @@ Recently, I interned with the AllenNLP team of [Allen Institute for AI](https://
 
 <ul class="sparse-list">
             <li>
-          <b>Efficient Hierarchical Domain Adaptation for Pretrained Language Models</b> <br/>
+          <b>[Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://arxiv.org/pdf/2112.08786.pdf)</b> <br/>
           <u>Alexandra Chronopoulou</u>, Matthew E. Peters and Jesse Dodge. <br/>
           arXiv preprint.<br/>
           [<a href="https://arxiv.org/pdf/2112.08786.pdf">paper</a>]
