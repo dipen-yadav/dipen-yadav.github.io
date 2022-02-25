@@ -20,7 +20,7 @@ Recently, I interned with the AllenNLP team of [Allen Institute for AI](https://
 
  <h2>News</h2>
  
-<b>December 2021</b>: Our pre-print on efficient domain adaptation of language models](https://arxiv.org/pdf/2112.08786.pdf) is out. This project is the result of my internship in Allen AI. 
+<b>December 2021</b>: Our pre-print on [efficient domain adaptation of language models](https://arxiv.org/pdf/2112.08786.pdf) is out. This project is the result of my internship in Allen AI. 
 
 <b>July 2021</b>: Excited to share that I will be starting a research internship in Allen AI in July, working with Jesse Dodge and Matt Peters!
 
