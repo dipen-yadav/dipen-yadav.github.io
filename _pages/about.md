@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hi, I'm Alexandra!"
-excerpt: "Hi, I'm Alexandra!"
+excerpt: "Alexandra Chronopoulou"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ I am interested in self-supervised training for supervised (and unsupervised) ma
 
 Before coming to Germany, I received my Diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the [National Technical University of Athens](https://www.ntua.gr/en/) (NTUA). My thesis was advised by [Alex Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en). During my final undergrad year, I was working in [Behavioral Signals](https://behavioralsignals.com/) as a Machine Learning engineer. 
 
-Recently, I interned with the AllenNLP team of [Allen Institute for AI](https://allenai.org/), where I was luck to be advised by [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en). 
+Recently, I interned with the AllenNLP team of [Allen Institute for AI](https://allenai.org/), where I was lucky to be advised by [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en). 
 
 
  <h2>News</h2>
