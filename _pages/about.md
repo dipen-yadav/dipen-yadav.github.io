@@ -20,9 +20,9 @@ Recently, I interned with the AllenNLP team of [Allen Institute for AI](https://
 
  <h2>News</h2>
  
-<b>December 2021</b>: Our pre-print on [efficient domain adaptation of language models](https://arxiv.org/pdf/2112.08786.pdf) is out. This project is the result of my internship in [Allen AI](https://allenai.org/). 
+<b>December 2021</b>: Our pre-print on efficient domain adaptation of language models](https://arxiv.org/pdf/2112.08786.pdf) is out. This project is the result of my internship in Allen AI. 
 
-<b>July 2021</b>: Excited to share that I will be starting a research internship in Allen AI in July, working with [Jesse Dodge](http://www.cs.cmu.edu/~jessed/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en)!
+<b>July 2021</b>: Excited to share that I will be starting a research internship in Allen AI in July, working with Jesse Dodge and Matt Peters!
 
 <b>March 2021</b>: Our paper "Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation" has been accepted to appear in NAACL 2021!
 
