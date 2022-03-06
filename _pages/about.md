@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a third-year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/).
+I am a third-year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in natural language processing and machine learning.
 
 I am interested in self-supervised training for supervised (and unsupervised) machine translation and domain adaptation, mainly using monolingual or cross-lingual language models. My work revolves around using prior knowledge from unsupervised pretraining to improve performance in low-resource scenarios. 
 
