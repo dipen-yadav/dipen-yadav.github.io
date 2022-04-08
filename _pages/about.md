@@ -39,7 +39,7 @@ Recently, I interned with the AllenNLP team of [Allen Institute for AI](https://
           <b>Efficient Hierarchical Domain Adaptation for Pretrained Language Models</b> <br/>
           <u>Alexandra Chronopoulou</u>, Matthew E. Peters and Jesse Dodge. <br/>
           NAACL 2022.<br/>
-          [<a href="https://arxiv.org/pdf/2112.08786.pdf">paper</a>][<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>]
+          [<a href="https://arxiv.org/pdf/2112.08786.pdf">paper</a>]
         </li>
           <li>
           <b>Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</b> <br/>
