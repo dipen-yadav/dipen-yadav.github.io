@@ -57,13 +57,6 @@ Recently, I interned with the AllenNLP team of [Allen Institute for AI](https://
           [<a href="https://drive.google.com/file/d/1HJ_5g_TifOSXUpUeHbDg4c3tyhZew_GD/view?usp=sharing" class="link-in-list">slides</a>]
         </li>
         <li>
-          <b>Domain Adversarial Fine-Tuning as an Effective Regularizer</b> <br/>
-          Giorgos Vernikos, Katerina Margatina, <u>Alexandra Chronopoulou</u> and Ion Androutsopoulos. <br/>
-          Findings of ACL: EMNLP 2020.<br/>
-          [<a href="https://www.aclweb.org/anthology/2020.findings-emnlp.278.pdf" class="link-in-list">paper</a>]
-          [<a href="https://github.com/GeorgeVern/AFTERV1.0" class="link-in-list">code</a>]
-        </li>
-        <li>
           <b>An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</b> <br/>
           <u>Alexandra Chronopoulou</u>, Christos Baziotis and Alexandros Potamianos. <br/>
           NAACL 2019.<br/>
