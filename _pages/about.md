@@ -20,7 +20,7 @@ Recently, I interned with the AllenNLP team of [Allen Institute for AI](https://
 
  <h2>News</h2>
 
- <b>April 2022</b>: Our paper on [Efficient Domain Adaptation of Pretrained Language Models](https://arxiv.org/pdf/2112.08786.pdf) has been accepted to appear at NAACL 2022 as a long paper. Beyond excited! This paper was written during my internship in AllenAI, where I had a great collaboration with Matt and Jesse!
+ <b>April 2022</b>: Our paper on Efficient Domain Adaptation of Pretrained Language Models [AI2 blog post]](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230) has been accepted to appear at NAACL 2022 as a long paper🥳. This paper was written during my internship in AllenAI, where I had a great collaboration with Matt and Jesse!
 
 <b>December 2021</b>: Our pre-print on [efficient domain adaptation of language models](https://arxiv.org/pdf/2112.08786.pdf) is out. This project is the result of my internship in Allen AI. 
 
