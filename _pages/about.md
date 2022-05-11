@@ -20,9 +20,9 @@ Recently, I interned with the AllenNLP team of [Allen Institute for AI](https://
 
  <h2>News</h2>
 
- <b>April 2022</b>: Our paper on efficient domain adaptation of language models has been accepted to appear at NAACL 2022 as a long paper🥳. This paper (you can read a blog post about it [here](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230)) was written during my internship in AllenAI!
+ <b>April 2022</b>: Our paper on efficient domain adaptation of language models has been accepted to appear at NAACL 2022 as a long paper🥳. Take a look at the AI2 blog post about it [here](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230)!
 
-<b>December 2021</b>: Our pre-print on [efficient domain adaptation of language models](https://arxiv.org/pdf/2112.08786.pdf) is out. This project is the result of my internship in Allen AI. 
+<b>December 2021</b>: Our pre-print on [efficient domain adaptation of language models](https://arxiv.org/pdf/2112.08786.pdf) (done during my internship in Allen AI) is out. 
 
 <b>July 2021</b>: Excited to share that I will be starting a research internship in Allen AI in July, working with Jesse Dodge and Matt Peters!
 
