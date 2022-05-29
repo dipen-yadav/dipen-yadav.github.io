@@ -14,7 +14,7 @@ I am interested in self-supervised training for supervised (and unsupervised) ma
 
 Currently, I am a Research Intern at the Allen Institute for Artificial Intelligence ([Allen AI](https://allenai.org/)), working with the AllenNLP group.
 
-Before starting my graduate studies, I received a diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the [National Technical University of Athens](https://www.ntua.gr/en/) (NTUA). My thesis advisor was [Alex Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en). During my final undergrad year, I was working in [Behavioral Signals](https://behavioralsignals.com/) as a Machine Learning engineer. 
+Before starting my graduate studies, I obtained a diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the [National Technical University of Athens](https://www.ntua.gr/en/) (NTUA). My thesis advisor was [Alex Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en). During my final undergrad year, I was working in [Behavioral Signals](https://behavioralsignals.com/) as a Machine Learning engineer. 
 
 I interned with the AllenNLP of Allen AI last summer, where I was lucky to be advised by [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en). 
 
