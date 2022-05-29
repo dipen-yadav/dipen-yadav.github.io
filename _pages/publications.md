@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-  You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=XiwRCRIAAAAJ&view_op=list_works&sortby=pubdate) profile.
+  You can also find my articles on my [Semantic Scholar](https://www.semanticscholar.org/author/Alexandra-Chronopoulou/3379701) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=XiwRCRIAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 <ul class="sparse-list">
             <li>
