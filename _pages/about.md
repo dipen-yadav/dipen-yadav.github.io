@@ -16,7 +16,7 @@ Currently, I am a Research Intern at the Allen Institute for Artificial Intellig
 
 Before starting my graduate studies, I obtained a diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the Nat. Tech. University of Athens (NTUA). My thesis advisor was [Alex Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en). 
 
-I interned with the AllenNLP of Allen AI last summer, where I was lucky to be advised by [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en). 
+I interned with the AllenNLP team of Allen AI last summer, where I was lucky to be advised by [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en). 
 
 
  <h2>News</h2>
