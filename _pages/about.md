@@ -21,6 +21,8 @@ I interned with the AllenNLP team of Allen AI last summer, where I was lucky to 
 
  <h2>News</h2>
 
+<b>June 2022</b>: Invited talk at the [DG CNECT workshop on large language models](https://lr-coordination.eu/workshop4) on efficient multilingual machine translation 🤓([slides](/files/talk_dgcnect)).
+
 <b>May 2022</b>: Happy to start (another) internship with Allen AI, working with Jesse Dodge and Matt Peters!
 
  <b>April 2022</b>: Our paper on efficient domain adaptation of language models has been accepted to appear at NAACL 2022 as a long paper🥳. Take a look at the AI2 blog post about it [here](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230)!
