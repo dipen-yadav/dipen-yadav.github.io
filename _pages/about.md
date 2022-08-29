@@ -12,11 +12,10 @@ redirect_from:
 I am a third-year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in natural language processing and machine learning.
 I am interested in self-supervised training for supervised (and unsupervised) machine translation and domain adaptation, mainly using monolingual or cross-lingual language models. My most recent research focuses on parameter-efficient methods for transfer learning.
 
-Currently, I am a Research Intern at the Allen Institute for Artificial Intelligence ([Allen AI](https://allenai.org/)), working with the AllenNLP group.
 
 Before starting my graduate studies, I obtained a diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the Nat. Tech. University of Athens (NTUA). My thesis advisor was [Alex Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en). 
 
-I interned with the AllenNLP team of Allen AI last summer, where I was lucky to be advised by [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en). 
+I interned with the AllenNLP team of Allen AI twice (remotely). I was lucky to be advised by [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en). 
 
 
  <h2>News</h2>
