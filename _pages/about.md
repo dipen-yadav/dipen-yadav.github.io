@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a third-year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in natural language processing and machine learning.
+I am a final year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in natural language processing and machine learning.
 I am interested in self-supervised training for supervised (and unsupervised) machine translation and domain adaptation, mainly using monolingual or cross-lingual language models. My most recent research focuses on parameter-efficient methods for transfer learning.
 
 
@@ -19,6 +19,8 @@ I interned with the AllenNLP team of Allen AI twice (remotely). I was lucky to b
 
 
  <h2>News</h2>
+
+<b>August 2022</b>: Happy to share that this week I started as an Applied Scientist intern at AWS in Santa Clara, California! I will be working with the Amazon Translate team. 
 
 <b>June 2022</b>: Invited talk at the [DG CNECT workshop on large language models](https://lr-coordination.eu/workshop4) on efficient multilingual machine translation 🤓 ([slides](/files/talk_dgcnect.pdf)).
 
