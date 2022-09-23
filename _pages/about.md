@@ -12,12 +12,10 @@ redirect_from:
 I am a final year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in natural language processing and machine learning.
 I am interested in self-supervised training for supervised (and unsupervised) machine translation and domain adaptation, mainly using monolingual or cross-lingual language models. My most recent research focuses on parameter-efficient methods for transfer learning.
 
-Currently, I am Applied Scientist Intern at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in Santa Clara, California, working with with the AI human language tecnhology group.
-
-In Summer 2021 and Spring 2022, I was a Research Intern at [Allen Institute for AI](https://allenai.org/allennlp), working with the AllenNLP team. 
+Currently, I am an Applied Scientist Intern at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in Santa Clara, California, working with with the AI human language tecnhology group.
+In summer 2021 and spring 2022, I was a Research Intern at [Allen Institute for AI](https://allenai.org/allennlp), working with the AllenNLP team. 
 
 Before starting my graduate studies, I obtained a diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the Nat. Tech. University of Athens (NTUA). My thesis advisor was [Alex Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en). 
-
 
 
 
