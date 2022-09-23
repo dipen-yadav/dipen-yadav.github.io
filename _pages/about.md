@@ -20,7 +20,7 @@ I interned with the AllenNLP team of Allen AI twice (remotely). I was lucky to b
 
  <h2>News</h2>
 
-<b>September 2022</b>: Invited talk at [Lilt AI](https://lilt.com/) on our recent NAACL paper ([slides](/files/hierdomadapt)).
+<b>September 2022</b>: Invited talk at [Lilt AI](https://lilt.com/) on our recent NAACL paper ([slides](/files/hierdomadapt.pdf)).
 
 <b>August 2022</b>: Happy to share that I started as an Applied Scientist intern at Amazon AI in Santa Clara, California! I will be working on speech translation with [Prashant Mathur](http://mtresearcher.github.io/), [Brian Thompson](https://thompsonb.github.io/), [Surafel Lakew](https://surafelml.github.io/) and the rest of the Doubtfire team.
 
