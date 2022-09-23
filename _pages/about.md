@@ -20,9 +20,11 @@ I interned with the AllenNLP team of Allen AI twice (remotely). I was lucky to b
 
  <h2>News</h2>
 
-<b>August 2022</b>: Happy to share that this week I started as an Applied Scientist intern at AWS in Santa Clara, California! I will be working with the Amazon Translate team. 
+<b>September 2022</b>: Invited talk at [Lilt AI](https://lilt.com/) on our recent hierarchical domain adaptation paper [slides](/files/hierdomadapt)).
 
-<b>June 2022</b>: Invited talk at the [DG CNECT workshop on large language models](https://lr-coordination.eu/workshop4) on efficient multilingual machine translation 🤓 ([slides](/files/talk_dgcnect.pdf)).
+<b>August 2022</b>: Happy to share that I started as an Applied Scientist intern at Amazon AI in Santa Clara, California! I will be working on speech translation with [Prashant Mathur](http://mtresearcher.github.io/), [Brian Thompson](https://thompsonb.github.io/), [Surafel Lakew](https://surafelml.github.io/) and the rest of the Doubtfire team.
+
+<b>June 2022</b>: Invited talk at the [DG CNECT workshop on large language models](https://lr-coordination.eu/workshop4) on efficient multilingual machine translation ([slides](/files/talk_dgcnect.pdf)).
 
 <b>May 2022</b>: Happy to start (another) internship with Allen AI, working with Jesse Dodge and Matt Peters!
 
@@ -45,7 +47,7 @@ I interned with the AllenNLP team of Allen AI twice (remotely). I was lucky to b
           <b>Efficient Hierarchical Domain Adaptation for Pretrained Language Models</b> <br/>
           <u>Alexandra Chronopoulou</u>, Matthew E. Peters and Jesse Dodge. <br/>
           NAACL 2022.<br/>
-          [<a href="https://arxiv.org/pdf/2112.08786.pdf">paper</a>] [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>] [<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>]
+          [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>] [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>] [<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>]
         </li>
           <li>
           <b>Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</b> <br/>
