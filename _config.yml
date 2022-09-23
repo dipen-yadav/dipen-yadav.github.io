@@ -187,7 +187,7 @@ collections:
     permalink: /:collection/:path/
   cv:
     output: true
-    permalink: /files/CV.pdf
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
