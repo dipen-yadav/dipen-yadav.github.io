@@ -23,19 +23,19 @@ Before starting my graduate studies, I obtained a diploma on [Electrical and Com
 
 <b>October 2022</b>: 2 new papers: 
 - m^4 Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter (EMNLP 2022 findings) 
-- [Language-Family Adapters for Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf) (arXiv pre-print)
+- [Language-Family Adapters for Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf) (arXiv pre-print)<br>
 <b>September 2022</b>: Invited talk at [Lilt AI](https://lilt.com/) on our recent NAACL paper ([slides](/files/hierdomadapt.pdf)).<br>
 <b>August 2022</b>: Happy to share that I started an internship at Amazon AI in Santa Clara, California! I will be working on speech translation with [Prashant Mathur](http://mtresearcher.github.io/) and the rest of the Doubtfire team.<br>
 <b>June 2022</b>: Invited talk at the [DG CNECT workshop](https://lr-coordination.eu/workshop4) ([slides](/files/talk_dgcnect.pdf)).<br>
 <b>May 2022</b>: Started another internship at Allen AI (with the same team)!<br>
 <b>April 2022</b>: 1 paper accepted at NAACL 2022:
- - [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf) (main conf.)
+ - [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf) (main conf.)<br>
 <b>July 2021</b>: Started an internship at Allen AI, working with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en)!<br>
 <b>March 2021</b>: 1 paper accepted at NAACL 2021:
-- [Improving the Lexical Ability of Pretrained Language Models for Unsupervised NMT](https://www.aclweb.org/anthology/2021.naacl-main.16.pdf) (main conf.)
+- [Improving the Lexical Ability of Pretrained Language Models for Unsupervised NMT](https://www.aclweb.org/anthology/2021.naacl-main.16.pdf) (main conf.)<br>
 <b>September 2020</b>: 2 papers accepted at EMNLP 2020:
 - [Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT](https://aclanthology.org/2020.emnlp-main.214.pdf) (main conf.)
-- [Domain Adversarial Fine-Tuning as an Effective Regularizer](https://aclanthology.org/2020.findings-emnlp.278.pdf) (findings)
+- [Domain Adversarial Fine-Tuning as an Effective Regularizer](https://aclanthology.org/2020.findings-emnlp.278.pdf) (findings)<br>
 <b>July 2020</b>: Our system ranked first in the WMT 2020 Unsupervised Translation Shared Task (translation system between Upper Sorbian and German). <br>
 
  <h2>Selected Publications</h2>
