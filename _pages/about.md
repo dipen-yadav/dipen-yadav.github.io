@@ -21,10 +21,10 @@ Before starting my graduate studies, I obtained a diploma on [Electrical and Com
 
  <h2>News</h2>
 
-<b>October 2022</b>: 1 paper accepted at [EMNLP 2022](https://2022.emnlp.org/) (findings)! 
-- m^4 Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter (pre-print coming soon)
+<b>October 2022</b>: 1 paper accepted at [EMNLP 2022](https://2022.emnlp.org/): 
+- m^4 Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter (findings, pre-print coming soon)
 
-<b>October 2022</b>: New ArXiv [preprint](https://arxiv.org/pdf/2209.15236.pdf) on training adapters on similar languages for multilingual NMT!
+<b>October 2022</b>: New ArXiv [preprint](https://arxiv.org/pdf/2209.15236.pdf) on training adapters on similar languages for multilingual NMT! 
 
 <b>September 2022</b>: Invited talk at [Lilt AI](https://lilt.com/) on our recent NAACL paper ([slides](/files/hierdomadapt.pdf)).
 
@@ -34,17 +34,20 @@ Before starting my graduate studies, I obtained a diploma on [Electrical and Com
 
 <b>May 2022</b>: Excited to share that I started  another internship with Allen AI, working with Jesse Dodge and Matt Peters!
 
- <b>April 2022</b>: Our paper on efficient domain adaptation of language models has been accepted to appear at [NAACL 2022](https://2022.naacl.org/) as a long paper🥳. Take a look at the AI2 blog post about it [here](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230)!
-
-<b>December 2021</b>: Our pre-print on [efficient domain adaptation of language models](https://arxiv.org/pdf/2112.08786.pdf) (done during my internship in Allen AI) is out. 
+<b>April 2022</b>: 1 paper accepted at [NAACL 2022](https://2022.naacl.org/):
+ - [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf)[blog post](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230) (main conf.)
 
 <b>July 2021</b>: Started an internship in Allen AI, working with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en)!
 
-<b>March 2021</b>: Our paper "Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation" has been accepted to appear in NAACL 2021!
+<b>March 2021</b>: 1 paper accepted at NAACL 2021:
+- [Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation](https://www.aclweb.org/anthology/2021.naacl-main.16.pdf) (main conf.)
 
-<b>September 2020</b>: Our paper "Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT" has been accepted to appear in EMNLP 2020! Also, our work "Domain Adversarial Fine-Tuning as an Effective Regularizer" was accepted in the findings of EMNLP.
+<b>September 2020</b>: 2 papers accepted at [EMNLP 2020](https://2020.emnlp.org/):
+- [Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT](https://aclanthology.org/2020.emnlp-main.214.pdf) (main conf.)
+- [Domain Adversarial Fine-Tuning as an Effective Regularizer](https://aclanthology.org/2020.findings-emnlp.278.pdf) (findings)
 
-<b>July 2020</b>: Our system ranked first in the WMT 2020 Unsupervised Translation Shared Task. The task was to create a purely unsupervised machine translation model that translates between Upper Sorbian and German.
+<b>July 2020</b>: Our system ranked first in the [WMT 2020 Unsupervised Translation Shared Task](https://www.statmt.org/wmt20/unsup_and_very_low_res/). The task was to create a purely unsupervised machine translation model that translates between Upper Sorbian and German. System description paper:
+- [The LMU Munich System for the WMT 2020 Unsupervised Machine Translation Shared Task](https://aclanthology.org/2020.wmt-1.128.pdf)
 
  <h2>Selected Publications</h2>
 
