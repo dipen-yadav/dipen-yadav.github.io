@@ -10,7 +10,7 @@ author_profile: true
 <ul class="sparse-list">
           <li>
           <b>m^4 Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter</b> <br/>
-          <u>Wen Lai</u>,Alexandra Chronopoulou and Alexander Fraser. <br/>
+          Wen Lai, <u>Alexandra Chronopoulou</u> and Alexander Fraser. <br/>
           Findings of ACL: EMNLP 2022.<br/>
           <li>
           <b>Language-Family Adapters for Multilingual Neural Machine Translation</b> <br/>
@@ -22,7 +22,7 @@ author_profile: true
           <b>Efficient Hierarchical Domain Adaptation for Pretrained Language Models</b> <br/>
           <u>Alexandra Chronopoulou</u>, Matthew E. Peters and Jesse Dodge. <br/>
           NAACL 2022.<br/>
-          [<a href="https://arxiv.org/pdf/2112.08786.pdf">paper</a>][<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>]
+          [<a href="https://arxiv.org/pdf/2112.08786.pdf">paper</a>][<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>][<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>]
         </li>
           <li>
           <b>Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</b> <br/>
