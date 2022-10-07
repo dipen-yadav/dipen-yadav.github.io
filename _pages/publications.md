@@ -12,12 +12,7 @@ author_profile: true
           <b>m^4 Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter</b> <br/>
           Wen Lai, <u>Alexandra Chronopoulou</u> and Alexander Fraser. <br/>
           Findings of ACL: EMNLP 2022.<br/>
-          <li>
-          <b>Language-Family Adapters for Multilingual Neural Machine Translation</b> <br/>
-          <u>Alexandra Chronopoulou</u>, Dario Stojanovski and Alexander Fraser. <br/>
-          arXiv.<br/>
-          [<a href="https://arxiv.org/pdf/2209.15236.pdf">paper</a>][<a href="/files/talk_dgcnect.pdf" class="link-in-list">slides</a>]
-        </li>
+          </li>
             <li>
           <b>Efficient Hierarchical Domain Adaptation for Pretrained Language Models</b> <br/>
           <u>Alexandra Chronopoulou</u>, Matthew E. Peters and Jesse Dodge. <br/>
