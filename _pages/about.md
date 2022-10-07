@@ -22,7 +22,7 @@ Before starting my graduate studies, I obtained a diploma on [Electrical and Com
  <h2>News</h2>
 
 <b>October 2022</b>: 1 paper accepted at [EMNLP 2022](https://2022.emnlp.org/) (findings)! 
-- m^4 Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter (preprint coming soon)
+- m^4 Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter (pre-print coming soon)
 
 <b>October 2022</b>: New ArXiv [preprint](https://arxiv.org/pdf/2209.15236.pdf) on training adapters on similar languages for multilingual NMT!
 
@@ -34,7 +34,7 @@ Before starting my graduate studies, I obtained a diploma on [Electrical and Com
 
 <b>May 2022</b>: Excited to share that I started  another internship with Allen AI, working with Jesse Dodge and Matt Peters!
 
- <b>April 2022</b>: Our paper on efficient domain adaptation of language models has been accepted to appear at NAACL 2022 as a long paper🥳. Take a look at the AI2 blog post about it [here](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230)!
+ <b>April 2022</b>: Our paper on efficient domain adaptation of language models has been accepted to appear at [NAACL 2022](https://2022.naacl.org/) as a long paper🥳. Take a look at the AI2 blog post about it [here](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230)!
 
 <b>December 2021</b>: Our pre-print on [efficient domain adaptation of language models](https://arxiv.org/pdf/2112.08786.pdf) (done during my internship in Allen AI) is out. 
 
