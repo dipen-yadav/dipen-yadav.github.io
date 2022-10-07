@@ -8,6 +8,16 @@ author_profile: true
   You can also find my articles on my [Semantic Scholar](https://www.semanticscholar.org/author/Alexandra-Chronopoulou/3379701) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=XiwRCRIAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 <ul class="sparse-list">
+          <li>
+          <b>m^4 Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter</b> <br/>
+          <u>Wen Lai</u>,Alexandra Chronopoulou and Alexander Fraser. <br/>
+          Findings of ACL: EMNLP 2022.<br/>
+          <li>
+          <b>Language-Family Adapters for Multilingual Neural Machine Translation</b> <br/>
+          <u>Alexandra Chronopoulou</u>, Dario Stojanovski and Alexander Fraser. <br/>
+          arXiv.<br/>
+          [<a href="https://arxiv.org/pdf/2209.15236.pdf">paper</a>][<a href="/files/talk_dgcnect.pdf" class="link-in-list">slides</a>]
+        </li>
             <li>
           <b>Efficient Hierarchical Domain Adaptation for Pretrained Language Models</b> <br/>
           <u>Alexandra Chronopoulou</u>, Matthew E. Peters and Jesse Dodge. <br/>
