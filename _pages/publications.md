@@ -9,7 +9,7 @@ author_profile: true
 
 <ul class="sparse-list">
           <li>
-          <b>m^4 Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter</b> <br/>
+          <b>m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter</b> <br/>
           Wen Lai, <u>Alexandra Chronopoulou</u> and Alexander Fraser. <br/>
           Findings of ACL: EMNLP 2022.<br/>
           </li>
