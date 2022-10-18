@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I am <b>Alexandra Chronopoulou</b>. I am a fourth (and final) year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in natural language processing and machine learning.
+Hi, I am Alexandra! I am a fourth (and final) year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in natural language processing and machine learning.
 I am interested in self-supervised training for supervised (and unsupervised) machine translation and domain adaptation, mainly using monolingual or cross-lingual language models. My most recent research focuses on parameter-efficient methods for transfer learning.
 
 Currently, I am an Applied Scientist Intern at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in Santa Clara, California, working with with the AI human language tecnhology group.
