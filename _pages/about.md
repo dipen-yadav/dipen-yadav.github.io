@@ -10,18 +10,18 @@ redirect_from:
 
 
 Hi, I am Alexandra! I am a fourth (and final) year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in natural language processing and machine learning.
-I am interested in self-supervised training for supervised (and unsupervised) machine translation and domain adaptation, mainly using monolingual or cross-lingual language models. My most recent research focuses on parameter-efficient methods for transfer learning.
+I am interested in self-supervised training for supervised (and unsupervised) machine translation and domain adaptation, mainly extracting knowledge from large pretained models. My most recent research focuses on parameter-efficient methods for transfer learning.
 
-Currently, I am an Applied Scientist Intern at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in Santa Clara, California, working with with the AI human language tecnhology group.
-In summers 2021 and 2022, I was a Research Intern at [Allen Institute for AI](https://allenai.org/allennlp), working with the AllenNLP team. 
+Currently, I am an Applied Scientist Intern at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in Santa Clara, California, working with with the AI human language technology group. 
+During my PhD, I was fortunate enough to conduct two research internships at the [Allen Institute for AI](https://allenai.org/allennlp), working with the AllenNLP team. 
 
-Prior to LMU Munich, I obtained a diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the Nat. Tech. University of Athens (NTUA). My thesis advisor was [Alex Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en). 
+Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equivalent) on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/). My thesis advisor was [Alex Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en). 
 
 
 
  <h2>News</h2>
 
-<b>October 2022</b>: Our paper m^4 Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter was accepted at the EMNLP 2022 findings!
+<b>October 2022</b>: Our paper m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter was accepted at the EMNLP 2022 findings!
 
 <b>October 2022</b>: Check out our work on [Language-Family Adapters for Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf)! 
 
