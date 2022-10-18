@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Alexandra!"
+title: "About me"
 excerpt: "Alexandra Chronopoulou"
 author_profile: true
 redirect_from: 
@@ -9,20 +9,21 @@ redirect_from:
 ---
 
 
-I am a final year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in natural language processing and machine learning.
+Hi, I am <b>Alexandra Chronopoulou</b>. I am a fourth (and final) year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in natural language processing and machine learning.
 I am interested in self-supervised training for supervised (and unsupervised) machine translation and domain adaptation, mainly using monolingual or cross-lingual language models. My most recent research focuses on parameter-efficient methods for transfer learning.
 
 Currently, I am an Applied Scientist Intern at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in Santa Clara, California, working with with the AI human language tecnhology group.
 In summers 2021 and 2022, I was a Research Intern at [Allen Institute for AI](https://allenai.org/allennlp), working with the AllenNLP team. 
 
-Before starting my graduate studies, I obtained a diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the Nat. Tech. University of Athens (NTUA). My thesis advisor was [Alex Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en). 
+Prior to LMU Munich, I obtained a diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the Nat. Tech. University of Athens (NTUA). My thesis advisor was [Alex Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en). 
 
 
 
  <h2>News</h2>
 
-<b>October 2022</b>: 2 new papers are out!  m^4 Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter (EMNLP 2022 findings) 
-and [Language-Family Adapters for Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf) (arXiv pre-print)
+<b>October 2022</b>: Our paper m^4 Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter was accepted at the EMNLP 2022 findings!
+
+<b>October 2022</b>: Check out our work on [Language-Family Adapters for Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf)! 
 
 <b>September 2022</b>: Invited talk at [Lilt AI](https://lilt.com/) on our recent NAACL paper ([slides](/files/hierdomadapt.pdf)).
 
