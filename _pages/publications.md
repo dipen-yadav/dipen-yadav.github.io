@@ -16,7 +16,7 @@ Publications and arxiv preprints:
           Findings of ACL: EMNLP 2022.<br/>[<a href="https://arxiv.org/abs/2210.11912">paper</a>]
           </li>
             <li>
-          <b>m<sup>4</sup> Language-Family Adapters for Multilingual Neural Machine Translation</b> <br/>
+          <b>Language-Family Adapters for Multilingual Neural Machine Translation</b> <br/>
           <u>Alexandra Chronopoulou</u>, Dario Stojanovski and Alexander Fraser. <br/>
           arxiv preprint.<br/>[<a href="https://arxiv.org/pdf/2209.15236.pdf">paper</a>]
           </li>
