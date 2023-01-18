@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-Hi, I am Alexandra! I am a fourth (and final) year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in natural language processing and machine learning.
-I am interested in self-supervised training for supervised (and unsupervised) machine translation and domain adaptation, mainly extracting knowledge from large pretained models. My most recent research focuses on parameter-efficient methods for transfer learning.
+I am a fourth (and final) year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in natural language processing and machine learning.
 
-Currently, I am an Applied Scientist Intern at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in Santa Clara, California, working with with the AI human language technology group. 
-During my PhD, I was fortunate enough to conduct two research internships at the [Allen Institute for AI](https://allenai.org/allennlp), working with the AllenNLP team. 
+I am interested in enhancing pretrained models for machine translation, multilinguality and domain adaptation by exploiting unlabeled data.  My most recent research focuses on parameter-efficient methods for transfer learning. I am particularly interested in combining information from different languages, domains or tasks to enable positive transfer using modular approaches, such as adapters, averaging weights of pretrained models, etc.
+
+During my PhD, I have done internships as Research Scientist at the [Allen Institute for AI](https://allenai.org/allennlp), working with the AllenNLP team (twice, remote) and at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in Santa Clara, CA working with the AI human language technology group. 
 
 Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equivalent) on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/). My thesis advisor was [Alex Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en). 
 
