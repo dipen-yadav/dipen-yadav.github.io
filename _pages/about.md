@@ -25,11 +25,13 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 
 <b>October 2022</b>: Check out our work on [Language-Family Adapters for Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf)! 
 
-<b>September 2022</b>: Invited talk at [Lilt AI](https://lilt.com/) on our recent NAACL paper ([slides](https://alexandra-chron.github.io/files/hierdomadapt.pdf)).
+<b>September 2022</b>: Invited talk at [Lilt AI](https://lilt.com/) on our recent NAACL paper! 
+<!-- ([slides](https://alexandra-chron.github.io/files/hierdomadapt.pdf)). -->
 
 <b>August 2022</b>: Happy to share that I started an internship at Amazon AI in Santa Clara, California! I will be working on speech translation with [Prashant Mathur](http://mtresearcher.github.io/) and the rest of the Doubtfire team.
 
-<b>June 2022</b>: Invited talk at the [DG CNECT workshop](https://lr-coordination.eu/workshop4) on large language models ([slides](https://alexandra-chron.github.io/files/talk_dgcnect.pdf)).
+<b>June 2022</b>: Invited talk at the [DG CNECT workshop](https://lr-coordination.eu/workshop4) on large language models. 
+ <!-- ([slides](https://alexandra-chron.github.io/files/talk_dgcnect.pdf)). -->
 
 <b>May 2022</b>: Excited to start another internship at Allen AI (working with the same team)!
 
@@ -53,7 +55,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
           [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>]
           [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>]
           [<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>]
-          [<a href="https://alexandra-chron.github.io/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>] 
+          <!-- [<a href="https://alexandra-chron.github.io/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>]  -->
         </li>
           <li>
           <b>Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</b> <br/>
@@ -68,7 +70,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
           EMNLP 2020.<br/>
           [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf" class="link-in-list">paper</a>]
           [<a href="https://github.com/alexandra-chron/relm_unmt" class="link-in-list">code</a>]
-          [<a href="https://alexandra-chron.github.io/files/relm.pdf" class="link-in-list">slides</a>]
+          <!-- [<a href="https://alexandra-chron.github.io/files/relm.pdf" class="link-in-list">slides</a>] -->
         </li>
         <li>
           <b>An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</b> <br/>
