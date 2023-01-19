@@ -35,9 +35,9 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 
 <b>April 2022</b>: 1 paper accepted at NAACL 2022: [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf) (main conf.). I wrote a [blog post](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230) about it, give it a read!
 
-<!-- <b>July 2021</b>: Started an internship at Allen AI, working with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en)!
+<b>July 2021</b>: Started an internship at Allen AI, working with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en)!
 
-<b>March 2021</b>: 1 paper accepted at NAACL 2021: [Improving the Lexical Ability of Pretrained Language Models for Unsupervised NMT](https://www.aclweb.org/anthology/2021.naacl-main.16.pdf) (main conf.)
+<!-- <b>March 2021</b>: 1 paper accepted at NAACL 2021: [Improving the Lexical Ability of Pretrained Language Models for Unsupervised NMT](https://www.aclweb.org/anthology/2021.naacl-main.16.pdf) (main conf.)
 
 <b>September 2020</b>: 2 papers accepted at EMNLP 2020: [Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT](https://aclanthology.org/2020.emnlp-main.214.pdf) (main conf.) and [Domain Adversarial Fine-Tuning as an Effective Regularizer](https://aclanthology.org/2020.findings-emnlp.278.pdf) (findings)
 
