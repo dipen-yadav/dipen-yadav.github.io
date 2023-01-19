@@ -50,7 +50,10 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
           <b>Efficient Hierarchical Domain Adaptation for Pretrained Language Models</b> <br/>
           <u>Alexandra Chronopoulou</u>, Matthew E. Peters and Jesse Dodge. <br/>
           NAACL 2022.<br/>
-          [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>] [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>] [<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>] [<a href="/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>] 
+          [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>]
+          [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>]
+          [<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>]
+          [<a href="/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>] 
         </li>
           <li>
           <b>Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</b> <br/>

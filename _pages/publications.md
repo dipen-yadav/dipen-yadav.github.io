@@ -24,7 +24,9 @@ Publications and arxiv preprints:
           <b>Efficient Hierarchical Domain Adaptation for Pretrained Language Models</b> <br/>
           <u>Alexandra Chronopoulou</u>, Matthew E. Peters and Jesse Dodge. <br/>
           NAACL 2022.<br/>
-          [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>][<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>][<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>]
+          [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>]
+          [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>]
+          [<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>][<a href="/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>] 
         </li>
           <li>
           <b>Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</b> <br/>
@@ -39,7 +41,7 @@ Publications and arxiv preprints:
           EMNLP 2020.<br/>
           [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf" class="link-in-list">paper</a>]
           [<a href="https://github.com/alexandra-chron/relm_unmt" class="link-in-list">code</a>]
-          [<a href="https://drive.google.com/file/d/1HJ_5g_TifOSXUpUeHbDg4c3tyhZew_GD/view?usp=sharing" class="link-in-list">slides</a>]
+          [<a href="/files/relm.pdf" class="link-in-list">slides</a>]
         </li>
         <li>
           <b>Domain Adversarial Fine-Tuning as an Effective Regularizer</b> <br/>
