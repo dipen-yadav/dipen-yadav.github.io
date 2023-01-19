@@ -26,7 +26,8 @@ Publications and arxiv preprints:
           NAACL 2022.<br/>
           [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>]
           [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>]
-          [<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>][<a href="/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>] 
+          [<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>]
+          [<a href="/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>] 
         </li>
           <li>
           <b>Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</b> <br/>
@@ -63,7 +64,7 @@ Publications and arxiv preprints:
           <b>Transfer Learning with Deep Neural Networks for Sentiment Analysis and Semantic Modeling</b> <br/>
           <u>Alexandra Chronopoulou</u>. <br/>
           National Technical University of Athens.<br/>
-          [<a href="https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/49039/diplomatiki_achronopoulou.pdf?sequence=1" class="link-in-list">thesis (in Greek)</a>]
+          [<a href="/files/thesis_achronopoulou.pdf">thesis (in English)</a>] [<a href="https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/49039/diplomatiki_achronopoulou.pdf?sequence=1" class="link-in-list">thesis (in Greek)</a>]
         </li>
         <li>
           <b>An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</b> <br/>
@@ -76,12 +77,14 @@ Publications and arxiv preprints:
           <b>NTUA-SLP at IEST 2018: Ensemble of neural transfer methods for implicit emotion classification</b> <br/>
           <u>Alexandra Chronopoulou</u>, Katerina Margatina, Christos Baziotis and Alexandros Potamianos. <br/>
           WASSA 2018.<br />
-          [<a href="https://www.aclweb.org/anthology/W18-6209.pdf" class="link-in-list">paper</a>][<a href="https://github.com/alexandra-chron/ntua-slp-wassa-iest2018">code</a>]
+          [<a href="https://www.aclweb.org/anthology/W18-6209.pdf" class="link-in-list">paper</a>]
+          [<a href="https://github.com/alexandra-chron/ntua-slp-wassa-iest2018">code</a>]
         </li>
         <li>
           <b>NTUA-SLP at SemEval-2018 Task 1: Predicting Affective Content in Tweets with Deep Attentive RNNs and Transfer Learning</b> <br/>
           Christos Baziotis, Nikos Athanasiou, <u>Alexandra Chronopoulou</u>, Athanasia Kolovou, Georgios Paraskevopoulos, Nikolaos Ellinas, Shrikanth Narayanan and  Alexandros Potamianos. <br/>
           SemEval 2018. <br />
-          [<a href="https://www.aclweb.org/anthology/S18-1037.pdf" class="link-in-list">paper</a>][<a href="https://github.com/cbaziotis/ntua-slp-semeval2018" class="link-in-list">code</a>]
+          [<a href="https://www.aclweb.org/anthology/S18-1037.pdf" class="link-in-list">paper</a>]
+          [<a href="https://github.com/cbaziotis/ntua-slp-semeval2018" class="link-in-list">code</a>]
         </li>
 </ul>
