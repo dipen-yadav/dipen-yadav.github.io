@@ -21,6 +21,9 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 
  <h2>News</h2>
 
+<b>January 2023</b>: Our paper AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models was accepted to appear in EACL 2023 (findings)! This is the outcome of my 2nd internship with Allen AI, joint work with Jesse Dodge, Matt Peters and my advisor Alex Fraser. Camera-ready coming up soon!
+
+
 <b>October 2022</b>: Our paper [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://arxiv.org/abs/2210.11912) was accepted at EMNLP 2022 (findings)!
 
 <b>October 2022</b>: Check out our work on [Language-Family Adapters for Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf)! 
