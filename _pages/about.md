@@ -51,6 +51,11 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
  <h2>Selected Publications</h2>
 
 <ul class="sparse-list">
+              <li>
+          <b>AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</b> <br/>
+          <u>Alexandra Chronopoulou</u>, Matthew E. Peters, Alexander Fraser and Jesse Dodge. <br/>
+          EACL 2023 (findings).<br/>
+        </li>
             <li>
           <b>Efficient Hierarchical Domain Adaptation for Pretrained Language Models</b> <br/>
           <u>Alexandra Chronopoulou</u>, Matthew E. Peters and Jesse Dodge. <br/>

@@ -11,9 +11,14 @@ Publications and arxiv preprints:
 
 <ul class="sparse-list">
           <li>
+          <b>AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</b> <br/>
+          <u>Alexandra Chronopoulou</u>, Matthew E. Peters, Alexander Fraser and Jesse Dodge. <br/>
+          EACL 2023 (findings).<br/>
+        </li>
+          <li>
           <b>m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter</b> <br/>
           Wen Lai, <u>Alexandra Chronopoulou</u> and Alexander Fraser. <br/>
-          Findings of ACL: EMNLP 2022.<br/>[<a href="https://arxiv.org/abs/2210.11912">paper</a>]
+          EMNLP 2022 (findings).<br/>[<a href="https://arxiv.org/abs/2210.11912">paper</a>]
           </li>
             <li>
           <b>Language-Family Adapters for Multilingual Neural Machine Translation</b> <br/>
@@ -47,7 +52,7 @@ Publications and arxiv preprints:
         <li>
           <b>Domain Adversarial Fine-Tuning as an Effective Regularizer</b> <br/>
           Giorgos Vernikos, Katerina Margatina, <u>Alexandra Chronopoulou</u> and Ion Androutsopoulos. <br/>
-          Findings of ACL: EMNLP 2020.<br/>
+          EMNLP 2020 (findings).<br/>
           [<a href="https://www.aclweb.org/anthology/2020.findings-emnlp.278.pdf" class="link-in-list">paper</a>]
           [<a href="https://github.com/GeorgeVern/AFTERV1.0" class="link-in-list">code</a>]
         </li>
