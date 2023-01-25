@@ -24,7 +24,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 <b>January 2023</b>: Our paper AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models was accepted at EACL 2023 (findings)! This is the result of my 2nd internship in Allen AI! 
 
 
-<b>October 2022</b>: Our paper [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://arxiv.org/abs/2210.11912) was accepted at EMNLP 2022 (findings)!
+<b>October 2022</b>: Our paper [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://arxiv.org/abs/2210.11912) was accepted at EMNLP 2022 (findings).
 
 <b>October 2022</b>: Check out our work on [Language-Family Adapters for Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf)! 
 
@@ -33,12 +33,11 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 
 <b>August 2022</b>: Happy to share that I started an internship at Amazon AI in Santa Clara, California! I will be working on speech translation with [Prashant Mathur](http://mtresearcher.github.io/) and the rest of the Doubtfire team.
 
-<b>June 2022</b>: Invited talk at the [DG CNECT workshop](https://lr-coordination.eu/workshop4) on large language models. 
- ([slides](https://alexandra-chron.github.io/files/talk_dgcnect.pdf)).
+<b>June 2022</b>: Invited talk at the [DG CNECT workshop](https://lr-coordination.eu/workshop4) on large language models ([slides](https://alexandra-chron.github.io/files/talk_dgcnect.pdf)).
 
 <b>May 2022</b>: Excited to start another internship at Allen AI (working with the same team)!
 
-<b>April 2022</b>: 1 paper accepted at NAACL 2022: [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf) (main conf.). I wrote a [blog post](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230) about it, give it a read!
+<b>April 2022</b>: 1 paper accepted at NAACL 2022: [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf) (main conference). I wrote a [blog post](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230) about it, give it a read!
 
 <b>July 2021</b>: Started an internship at Allen AI, working with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en)!
 
@@ -50,42 +49,42 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 
  <h2>Selected Publications</h2>
 
+<!-- [<a href="https://alexandra-chron.github.io/publications/">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a>] -->
+
 <ul class="sparse-list">
-              <li>
-          <b>AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</b> <br/>
-          <u>Alexandra Chronopoulou</u>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> and <a href="https://jessedodge.github.io/">Jesse Dodge</a>. <br/>
+          <li>
+          <b><a  href="https://alexandra-chron.github.io/publications/">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> <br/>
+          <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> and <a href="https://jessedodge.github.io/">Jesse Dodge</a>. <br/>
           EACL 2023 (findings).<br/>
         </li>
             <li>
-          <b>Efficient Hierarchical Domain Adaptation for Pretrained Language Models</b> <br/>
-          <u>Alexandra Chronopoulou</u>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a> and <a href="https://jessedodge.github.io/">Jesse Dodge</a>. <br/>
-          NAACL 2022.<br/>
-          [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>]
+           <b><a  href="https://aclanthology.org/2022.naacl-main.96.pdf">Efficient Hierarchical Domain Adaptation for Pretrained Language Models</a></b>          
           [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>]
           [<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>]
-          [<a href="https://alexandra-chron.github.io/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>] 
+          [<a href="https://alexandra-chron.github.io/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>] <br/>
+          <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a> and <a href="https://jessedodge.github.io/">Jesse Dodge</a>. <br/>
+          NAACL 2022.<br/>
+          <!-- [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>] -->
         </li>
           <li>
-          <b>Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</b> <br/>
-          <u>Alexandra Chronopoulou</u>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a> and <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>. <br/>
+          <b><a href="https://www.aclweb.org/anthology/2021.naacl-main.16.pdf">Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</a></b>
+          [<a href="https://github.com/alexandra-chron/lexical_xlm_relm" class="link-in-list">code</a>] <br/>
+          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a> and <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>. <br/>
           NAACL 2021.<br/>
-          [<a href="https://www.aclweb.org/anthology/2021.naacl-main.16.pdf">paper</a>]
-          [<a href="https://github.com/alexandra-chron/lexical_xlm_relm" class="link-in-list">code</a>]
+          <!-- [<a href="https://www.aclweb.org/anthology/2021.naacl-main.16.pdf">paper</a>] -->
         </li>
         <li>
-          <b>Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT</b> <br/>
-          <u>Alexandra Chronopoulou</u>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a> and <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>. <br/>
+          <b><a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf">Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT</a></b>         [<a href="https://github.com/alexandra-chron/relm_unmt">code</a>]
+          [<a href="https://alexandra-chron.github.io/files/relm.pdf" class="link-in-list">slides</a>]<br/>
+          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a> and <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>. <br/>
           EMNLP 2020.<br/>
-          [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf" class="link-in-list">paper</a>]
-          [<a href="https://github.com/alexandra-chron/relm_unmt" class="link-in-list">code</a>]
-          [<a href="https://alexandra-chron.github.io/files/relm.pdf" class="link-in-list">slides</a>]
+          <!-- [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf" class="link-in-list">paper</a>] -->
         </li>
         <li>
-          <b>An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</b> <br/>
-          <u>Alexandra Chronopoulou</u>, <a href="https://cbaziotis.github.io/">Christos Baziotis</a> and <a href="https://slp-ntua.github.io/potam/">Alexandros Potamianos</a>. <br/>
+          <b><a href="https://www.aclweb.org/anthology/N19-1213.pdf">An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</a></b>  [<a href="https://github.com/alexandra-chron/siatl" class="link-in-list">code</a>] <br/>
+          <b>Alexandra Chronopoulou</b>, <a href="https://cbaziotis.github.io/">Christos Baziotis</a> and <a href="https://slp-ntua.github.io/potam/">Alexandros Potamianos</a>. <br/>
           NAACL 2019.<br/>
-          [<a href="https://www.aclweb.org/anthology/N19-1213.pdf" class="link-in-list">paper</a>]
-          [<a href="https://github.com/alexandra-chron/siatl" class="link-in-list">code</a>]
+          <!-- [<a href="https://www.aclweb.org/anthology/N19-1213.pdf" class="link-in-list">paper</a>] -->
         </li>
 
 </ul>
