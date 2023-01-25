@@ -53,12 +53,12 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 <ul class="sparse-list">
               <li>
           <b>AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</b> <br/>
-          <u>Alexandra Chronopoulou</u>, [Matthew E. Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en), [Alexander Fraser](https://www.cis.uni-muenchen.de/~fraser/) and [Jesse Dodge](https://jessedodge.github.io/). <br/>
+          <u>Alexandra Chronopoulou</u>, [<a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>], [<a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>] and [<a href="https://jessedodge.github.io/">Jesse Dodge</a>]. <br/>
           EACL 2023 (findings).<br/>
         </li>
             <li>
           <b>Efficient Hierarchical Domain Adaptation for Pretrained Language Models</b> <br/>
-          <u>Alexandra Chronopoulou</u>, [Matthew E. Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en) and [Jesse Dodge](https://jessedodge.github.io/). <br/>
+          <u>Alexandra Chronopoulou</u>, [<a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>] and [<a href="https://jessedodge.github.io/">Jesse Dodge</a>]. <br/>
           NAACL 2022.<br/>
           [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>]
           [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>]
@@ -67,14 +67,14 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
         </li>
           <li>
           <b>Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</b> <br/>
-          <u>Alexandra Chronopoulou</u>, [Dario Stojanovski](https://www.cis.lmu.de/~dario/) and [Alexander Fraser](https://www.cis.uni-muenchen.de/~fraser/). <br/>
+          <u>Alexandra Chronopoulou</u>, [<a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>] and [<a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>]. <br/>
           NAACL 2021.<br/>
           [<a href="https://www.aclweb.org/anthology/2021.naacl-main.16.pdf">paper</a>]
           [<a href="https://github.com/alexandra-chron/lexical_xlm_relm" class="link-in-list">code</a>]
         </li>
         <li>
           <b>Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT</b> <br/>
-          <u>Alexandra Chronopoulou</u>, [Dario Stojanovski](https://www.cis.lmu.de/~dario/) and [Alexander Fraser](https://www.cis.uni-muenchen.de/~fraser/). <br/>
+          <u>Alexandra Chronopoulou</u>, [<a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>] and [<a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>]. <br/>
           EMNLP 2020.<br/>
           [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf" class="link-in-list">paper</a>]
           [<a href="https://github.com/alexandra-chron/relm_unmt" class="link-in-list">code</a>]
@@ -82,7 +82,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
         </li>
         <li>
           <b>An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</b> <br/>
-          <u>Alexandra Chronopoulou</u>, [Christos Baziotis](https://cbaziotis.github.io/) and [Alexandros Potamianos](https://slp-ntua.github.io/potam/). <br/>
+          <u>Alexandra Chronopoulou</u>, [<a href="https://cbaziotis.github.io/">Christos Baziotis</a>] and [<a href="https://slp-ntua.github.io/potam/">Alexandros Potamianos</a>]. <br/>
           NAACL 2019.<br/>
           [<a href="https://www.aclweb.org/anthology/N19-1213.pdf" class="link-in-list">paper</a>]
           [<a href="https://github.com/alexandra-chron/siatl" class="link-in-list">code</a>]
