@@ -8,7 +8,8 @@ author_profile: true
   You can also find my articles on my [Semantic Scholar](https://www.semanticscholar.org/author/Alexandra-Chronopoulou/3379701) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=XiwRCRIAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 Publications and arxiv preprints: 
-[<a href="https://www2.aueb.gr/users/ion/">Ion Androutsopoulos</a>]
+
+a {text-decoration: none; }
 
 <ul class="sparse-list">
               <li>
