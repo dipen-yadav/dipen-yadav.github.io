@@ -21,7 +21,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 
  <h2>News</h2>
 
-<b>January 2023</b>: Our paper AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models was accepted at EACL 2023 (findings)! This is the result of my 2nd internship in Allen AI! 
+<b>January 2023</b>: Our paper [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://alexandra-chron.github.io/) was accepted at EACL 2023 (findings)! This is the result of my 2nd internship in Allen AI! 
 
 
 <b>October 2022</b>: Our paper [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://arxiv.org/abs/2210.11912) was accepted at EMNLP 2022 (findings).
@@ -55,7 +55,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
           <li>
           <b><a  href="https://alexandra-chron.github.io/publications/">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
-          European Chapter of the Association for Computational Linguistics (EACL) Findings, 2023 <br/>
+          European Chapter of the Association for Computational Linguistics (EACL) Findings, 2023<br/>
         </li>
             <li>
            <b><a  href="https://aclanthology.org/2022.naacl-main.96.pdf">Efficient Hierarchical Domain Adaptation for Pretrained Language Models</a></b>          

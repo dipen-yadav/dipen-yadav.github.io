@@ -17,7 +17,7 @@ Publications and arxiv preprints:
         </li>
           <li>
           <b><a href="https://arxiv.org/abs/2210.11912">m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter</a></b> <br/>
-          <a href="https://lavine-lmu.github.io/">Wen Lai</a>, <u>Alexandra Chronopoulou</u>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
+          <a href="https://lavine-lmu.github.io/">Wen Lai</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
           Empirical Methods on Natural Language Processing (EMNLP) Findings, 2022 <br/>
           </li>
             <li>
@@ -56,7 +56,7 @@ Publications and arxiv preprints:
           [<a href="https://github.com/alexandra-chron/umt-lmu-wmt2020" class="link-in-list">code</a>]
           [<a href="https://drive.google.com/file/d/1gZvhZd5TW3z7VJubts13Y35L8H1mbBT1/view?usp=sharing" class="link-in-list">slides</a>]
          [<a href="https://drive.google.com/file/d/1bTjshwr8amPLyxlPzVDEcB6DtA4vjVUX/view?usp=sharing" class="link-in-list">poster</a>]<br/>
-          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~hangyav/">Viktor Hangya</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>. <br/>
+          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~hangyav/">Viktor Hangya</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
           Conference on Machine Translation (WMT), 2020 <br/>
         </li>
         <li>
