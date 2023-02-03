@@ -13,6 +13,8 @@ I am a fourth (and final) year PhD student in the [Center for Information and La
 
 I am interested in enhancing pretrained models for machine translation, multilinguality and domain adaptation by exploiting unlabeled data.  My most recent research focuses on parameter-efficient methods for transfer learning. I am particularly interested in combining information from different languages, domains or tasks to enable positive transfer using modular approaches, such as adapters, averaging weights of pretrained models, etc.
 
+<b>I am in the job market for industry research positions!</b>
+
 During my PhD, I have done internships as Research Scientist at the [Allen Institute for AI](https://allenai.org/), working with the [AllenNLP](https://allenai.org/allennlp) team (twice, remote) and at Amazon Web Services ([AWS](https://aws.amazon.com/)) in Santa Clara, CA working with the [AI human language technology](https://aws.amazon.com/machine-learning/language/) group. 
 
 Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equivalent) on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/). My thesis advisor was [Alex Potamianos](https://slp-ntua.github.io/potam/). 
@@ -21,7 +23,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 
  <h2>News</h2>
 
-<b>January 2023</b>: Our paper [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://alexandra-chron.github.io/) was accepted at EACL 2023 (findings)! This is the result of my 2nd internship in Allen AI! 
+<b>January 2023</b>: Our paper AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models was accepted at EACL 2023 (findings)! This is the result of my 2nd internship in Allen AI (Camera-ready will be uploaded soon)! 
 
 
 <b>October 2022</b>: Our paper [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://arxiv.org/abs/2210.11912) was accepted at EMNLP 2022 (findings).
