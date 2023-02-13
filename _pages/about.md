@@ -13,6 +13,8 @@ I am a fourth (and final) year PhD student in the [Center for Information and La
 
 I am interested in enhancing pretrained models for machine translation, multilinguality and domain adaptation by exploiting unlabeled data.  My most recent research focuses on parameter-efficient methods for transfer learning. I am particularly interested in combining information from different languages, domains or tasks to enable positive transfer using modular approaches, such as adapters, averaging weights of pretrained models, etc.
 
+In Spring 2023, I will be a Research Intern at Google in the [Google Brain](https://research.google/teams/brain/) team in Berlin, Germany, working with [Sebastian Ruder](https://www.ruder.io/), [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17), and [Jonas Pfeiffer](https://pfeiffer.ai/).
+
 <b>I will soon finish my PhD and be on the job market for industry research positions!</b>
 
 During my PhD, I have done internships as Research Scientist at the [Allen Institute for AI](https://allenai.org/), working with the [AllenNLP](https://allenai.org/allennlp) team (twice, remote) and at Amazon Web Services ([AWS](https://aws.amazon.com/)) in Santa Clara, CA working with the [AI human language technology](https://aws.amazon.com/machine-learning/language/) group. 
