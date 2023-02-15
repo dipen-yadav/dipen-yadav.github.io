@@ -11,7 +11,7 @@ Publications and arxiv preprints:
 
 <ul class="sparse-list">
            <li>
-          <b><a  href="https://alexandra-chron.github.io/publications/">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> <br/>
+          <b><a  href="https://arxiv.org/pdf/2302.07027.pdf">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
           European Chapter of the Association for Computational Linguistics (EACL) Findings, 2023 <br/>
         </li>
