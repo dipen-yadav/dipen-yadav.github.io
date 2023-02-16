@@ -7,7 +7,7 @@ author_profile: true
 
  As a part of my PhD duties, I have supervised the theses of the following students:
 
- <h2> Students for bachelor's degree </h2>
+ <h3> Students for bachelor's degree </h3>
 
 - Michael Anzer - *Comparing Unsupervised and Supervised Approaches for Kannada/English Bilingual Word Embeddings*
 
@@ -17,6 +17,6 @@ author_profile: true
 
 - Cornelia Jost - *Adversarial Domain Adaptation for Low-Resource Question-Answering*
 
- <h2> Students for master's degree </h2>
+ <h3> Students for master's degree </h3>
 
 - Pascal Guldener - *Transferring a Multiliningual Language Model to a New Script using Unsupervised Distributional Cross-Lingual Mapping*
