@@ -24,6 +24,8 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 
  <h2>News</h2>
 
+<b>February 2023</b>: I am co-organizing a shared task on [dubbing](https://iwslt.org/2023/dubbing) in [IWSLT 2023](https://iwslt.org/2023/) (co-located with ACL next summer) along with former teammates from Amazon AI. 
+
 <b>January 2023</b>: The paper [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://arxiv.org/pdf/2302.07027.pdf) from my internship research project at Allen AI was accepted at EACL 2023 (findings)!
 
 
