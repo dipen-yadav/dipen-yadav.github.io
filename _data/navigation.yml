@@ -2,9 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+   
+  - title: "Supervision"
+    url: /supervision/
 
   - title: "CV"
     url: /cv/
-    
-  - title: "Supervision"
-    url: /supervision/
