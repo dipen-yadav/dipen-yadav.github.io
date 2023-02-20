@@ -11,21 +11,20 @@ redirect_from:
 
 I am a fourth (and final) year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in natural language processing and machine learning.
 
-I am interested in enhancing pretrained models for machine translation, multilinguality and domain adaptation by exploiting unlabeled data.  My most recent research focuses on parameter-efficient methods for transfer learning. I am particularly interested in combining information from different languages, domains or tasks to enable positive transfer using modular approaches, such as adapters, averaging weights of pretrained models, etc.
+I am interested in machine translation, multilinguality and domain adaptation by exploiting unlabeled data.  My most recent research focuses on parameter-efficient methods for transfer learning. I am particularly excited about combining information from different languages, domains or tasks to enable positive transfer using modular approaches, such as adapters, averaging weights of pretrained models, etc.
 
-In Spring 2023, I will be a Research Intern at Google in the [Google Brain](https://research.google/teams/brain/) team in Berlin, Germany, working with [Sebastian Ruder](https://www.ruder.io/), [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17), and [Jonas Pfeiffer](https://pfeiffer.ai/).
+In Spring 2023, I will be a research intern at Google in the [Google Brain](https://research.google/teams/brain/) team in Berlin, Germany, working with [Sebastian Ruder](https://www.ruder.io/), [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17), and [Jonas Pfeiffer](https://pfeiffer.ai/).
 
-<b>I will soon finish my PhD and be on the job market for industry research positions!</b>
-
-During my PhD, I have done internships as Research Scientist at the [Allen Institute for AI](https://allenai.org/), working with the [AllenNLP](https://allenai.org/allennlp) team (twice, remote) and at Amazon Web Services ([AWS](https://aws.amazon.com/)) in Santa Clara, CA working with the [AI human language technology](https://aws.amazon.com/machine-learning/language/) group. 
+During my PhD, I interned in the [AllenNLP](https://allenai.org/allennlp) team of [Allen Institute for AI](https://allenai.org/) (twice, remote), where I was working with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en). I also interned in the [AI human language technology](https://aws.amazon.com/machine-learning/language/) group of Amazon Web Services ([AWS](https://aws.amazon.com/)) in Santa Clara, CA, where I was working with [Brian Thompson](https://thompsonb.github.io/), [Prashant Mathur](http://mtresearcher.github.io/) and [Marcello Federico](https://www.marcellofederico.net).
 
 Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equivalent) on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/). My thesis advisor was [Alex Potamianos](https://slp-ntua.github.io/potam/). 
 
+<b>I will soon finish my PhD and be on the job market for industry research positions!</b>
 
 
  <h2>News</h2>
 
-<b>January 2023</b>: Our paper [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://arxiv.org/pdf/2302.07027.pdf) was accepted at EACL 2023 (findings)! This is the result of my 2nd internship in Allen AI. 
+<b>January 2023</b>: The paper [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://arxiv.org/pdf/2302.07027.pdf) from my internship research project at Allen AI was accepted at EACL 2023 (findings)!
 
 
 <b>October 2022</b>: Our paper [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://arxiv.org/abs/2210.11912) was accepted at EMNLP 2022 (findings).
@@ -35,15 +34,15 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 <b>September 2022</b>: Invited talk at [Lilt AI](https://lilt.com/) on our recent NAACL paper! 
 ([slides](https://alexandra-chron.github.io/files/hierdomadapt.pdf)).
 
-<b>August 2022</b>: Happy to share that I started an internship at Amazon AI in Santa Clara, California! I will be working on speech translation with [Prashant Mathur](http://mtresearcher.github.io/) and the rest of the Doubtfire team.
+<b>August 2022</b>: Happy to share that I started an internship at Amazon AI in Santa Clara, California! I will spend this fall working on speech translation with the Doubtfire team. 
 
 <b>June 2022</b>: Invited talk at the [DG CNECT workshop](https://lr-coordination.eu/workshop4) on large language models ([slides](https://alexandra-chron.github.io/files/talk_dgcnect.pdf)).
 
-<b>May 2022</b>: Excited to start another internship at Allen AI (working with the same team)!
+<b>May 2022</b>: Excited to start another internship at Allen AI, working with Jesse Dodge and Matt Peters!
 
-<b>April 2022</b>: 1 paper accepted at NAACL 2022: [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf) (main conference). I wrote a [blog post](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230) about it, give it a read!
+<b>April 2022</b>: The paper [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf) from my internship in Allen AI was accepted at NAACL 2022 (main track); I wrote a [blog post](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230) about it, give it a read!
 
-<b>July 2021</b>: Started an internship at Allen AI, working with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en)!
+<!-- <b>July 2021</b>: Started an internship at Allen AI, working with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en)! -->
 
 <!-- <b>March 2021</b>: 1 paper accepted at NAACL 2021: [Improving the Lexical Ability of Pretrained Language Models for Unsupervised NMT](https://www.aclweb.org/anthology/2021.naacl-main.16.pdf) (main conf.)
 
