@@ -36,7 +36,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 <b>September 2022</b>: Invited talk at [Lilt AI](https://lilt.com/) on our recent NAACL paper! 
 ([slides](https://alexandra-chron.github.io/files/hierdomadapt.pdf)).
 
-<b>August 2022</b>: Happy to share that I started an internship at Amazon AI in Santa Clara, California! I will spend this fall working on speech translation with the Doubtfire team. 
+<b>August 2022</b>: Happy to share that I started an internship at Amazon AI in Santa Clara, California! I will spend this Fall working on speech translation with the Doubtfire team. 
 
 <b>June 2022</b>: Invited talk at the [DG CNECT workshop](https://lr-coordination.eu/workshop4) on large language models ([slides](https://alexandra-chron.github.io/files/talk_dgcnect.pdf)).
 
