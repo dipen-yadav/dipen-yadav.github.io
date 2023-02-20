@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 
-I am a final year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research is in machine translation, multilinguality and domain adaptation. My most recent research focuses on parameter-efficient methods for fine-tuning. I am particularly excited about combining information from different languages, domains or tasks to enable positive transfer using modular approaches, such as adapters, averaging weights of pretrained models, etc.
+I am a final year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html), where I am lucky to be advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/), working on natural language processing & machine learning. My research is in machine translation, multilinguality and domain adaptation. My most recent research focuses on parameter-efficient methods for transfer learning. I am particularly excited about combining information from different languages, domains or tasks to enable positive transfer using modular approaches, such as adapters, averaging weights of pretrained models, etc.
 
-In spring 2023, I will be a research intern at Google in the [Brain](https://research.google/teams/brain/) team in Berlin, where I will work with [Sebastian Ruder](https://www.ruder.io/), [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17), and [Jonas Pfeiffer](https://pfeiffer.ai/).
+In Spring 2023, I will be a research intern at Google in the [Brain](https://research.google/teams/brain/) team in Berlin, where I will work with [Sebastian Ruder](https://www.ruder.io/), [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) and [Jonas Pfeiffer](https://pfeiffer.ai/).
 
-During my PhD, I interned at the [Allen Institute for AI](https://allenai.org/) with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en) (twice); I was part of the [AllenNLP](https://allenai.org/allennlp) team. I also interned at [Amazon AI](https://aws.amazon.com/machine-learning/) in Santa Clara, CA with [Brian Thompson](https://thompsonb.github.io/), [Prashant Mathur](http://mtresearcher.github.io/) and [Marcello Federico](https://www.marcellofederico.net).
+During my PhD, I interned at the [Allen Institute for AI](https://allenai.org/) with the amazing [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en) (twice, remote), where I was part of the [AllenNLP](https://allenai.org/allennlp) team. I recently also interned at [Amazon AI](https://aws.amazon.com/machine-learning/) in Santa Clara, CA with [Brian Thompson](https://thompsonb.github.io/), [Prashant Mathur](http://mtresearcher.github.io/) and [Marcello Federico](https://www.marcellofederico.net), as part of the AI human language technology group.
 
 
-Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equivalent) in [Electrical and Computer Engineering (ECE)](https://www.ece.ntua.gr/en) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/) in Greece. 
+Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equivalent) in [Electrical and Computer Engineering (ECE)](https://www.ece.ntua.gr/en) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/) in Greece. During my last undergrad year I was also working as a Machine Learning Engineer at [Behavioral Signal Technologies](https://behavioralsignals.com/). 
+
 
 <b>I will soon finish my PhD and be on the job market for industry research positions!</b>
-
 
 
  <h2>News</h2>
@@ -95,6 +95,6 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 
  <h2>More</h2>
 
-- My undegrad thesis supervisor was [Alex Potamianos](https://slp-ntua.github.io/potam/). During my undegrad, I worked in the Speech and Language Processing group of ECE, NTUA.
+- My undegrad thesis supervisor was [Alexandros Potamianos](https://slp-ntua.github.io/potam/). I spent a good part of my last undegrad years in the Speech and Language Processing group of ECE, NTUA. Thesis: [Transfer Learning with Deep Neural Networks for Sentiment Analysis and Semantic Modeling](https://alexandra-chron.github.io/files/thesis_achronopoulou.pdf).
 
-- I am from Athens, Greece and I enjoy literature, movies, the sea, summers in Greece, [Thanassis'](https://www.youtube.com/channel/UC4tLNPEm2HYi2UG7z78MfsQ) concerts, being the last from my group of friends who hasn't watched GoT, padel, and travelling. 
+- I am from Athens, Greece and I enjoy literature, movies, the sea, summers in Greece, [Thanassis'](https://www.youtube.com/channel/UC4tLNPEm2HYi2UG7z78MfsQ) concerts, receiving weird looks for not having watched GoT, padel, and travelling. 
