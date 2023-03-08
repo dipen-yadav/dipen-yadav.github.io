@@ -11,7 +11,7 @@ Publications and arxiv preprints:
 
 <ul class="sparse-list">
           <li>
-          <b><a  href="https://arxiv.org/pdf/2302.07027.pdf">Jointly Optimizing Translations and Speech Timing to Improve Isochrony in Automatic Dubbing</a></b> <br/>
+          <b><a  href="https://arxiv.org/pdf/2302.12979.pdf">Jointly Optimizing Translations and Speech Timing to Improve Isochrony in Automatic Dubbing</a></b> <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://thompsonb.github.io/">Brian Thompson</a>, <a href="http://mtresearcher.github.io/">Prashant Mathur</a>, <a href="https://scholar.google.com/citations?user=Cida6AcAAAAJ&hl=en">Yogesh Virkar</a>, <a href="https://surafelml.github.io/">Surafel M. Lakew</a>, <a href="https://www.marcellofederico.net/">Marcello Federico</a><br/>
           arxiv preprint <br/>
         </li>
