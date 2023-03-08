@@ -24,8 +24,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng equiv
 
  <h2>News</h2>
  
- <b>February 2023</b>: Check out or work on [Jointly Optimizing Translations and Speech Timing
-to Improve Isochrony in Automatic Dubbing](https://arxiv.org/pdf/2302.12979.pdf); this is the result of my internship in Amazon AI last fall. 
+ <b>February 2023</b>: Check out or work on [Isochronous Automatic Dubbing](https://arxiv.org/pdf/2302.12979.pdf); this is the result of my internship in Amazon AI last fall. 
 
 <b>February 2023</b>: I am co-organizing a shared task on [dubbing](https://iwslt.org/2023/dubbing) in [IWSLT 2023](https://iwslt.org/2023/) (co-located with ACL next summer) along with former teammates from Amazon AI. 
 
