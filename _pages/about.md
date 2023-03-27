@@ -60,7 +60,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 
 <ul class="sparse-list">
           <li>
-          <b><a  href="https://arxiv.org/pdf/2302.07027.pdf">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> <br/> [<a href="https://alexandra-chron.github.io/files/adaptersoup.pdf" class="link-in-list">slides</a>]
+          <b><a  href="https://arxiv.org/pdf/2302.07027.pdf">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> [<a href="https://alexandra-chron.github.io/files/adaptersoup.pdf" class="link-in-list">slides</a>] <br/> 
           <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
           European Chapter of the Association for Computational Linguistics (EACL) Findings, 2023<br/>
         </li>
