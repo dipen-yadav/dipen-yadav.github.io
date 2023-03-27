@@ -26,9 +26,9 @@ Publications and arxiv preprints:
           Empirical Methods on Natural Language Processing (EMNLP) Findings, 2022 <br/>
           </li>
             <li>
-          <b><a href="https://arxiv.org/pdf/2209.15236.pdf">Language-Family Adapters for Multilingual Neural Machine Translation</a></b> <br/>
+          <b><a href="https://arxiv.org/pdf/2209.15236.pdf">Language-Family Adapters for Low-Resource Multilingual Neural Machine Translation</a></b> <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
-          arxiv preprint <br/>
+          Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT), 2023 <br/>
           </li>
             <li>
            <b><a href="https://aclanthology.org/2022.naacl-main.96.pdf">Efficient Hierarchical Domain Adaptation for Pretrained Language Models</a></b>          

@@ -24,6 +24,8 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 
  <h2>News</h2>
  
+ <b>October 2022</b>: Our paper [Language-Family Adapters for Low-Resource Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf) was accepted at LoResMT, EACL 2023!
+
  <b>February 2023</b>: Check out or work on [Isochronous Automatic Dubbing](https://arxiv.org/pdf/2302.12979.pdf); this is the result of my internship in Amazon AI last fall. 
 
 <b>February 2023</b>: I am co-organizing a shared task on [dubbing](https://iwslt.org/2023/dubbing) in [IWSLT 2023](https://iwslt.org/2023/) (co-located with ACL next summer) along with former teammates from Amazon AI. 
@@ -33,7 +35,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 
 <b>October 2022</b>: Our paper [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://arxiv.org/abs/2210.11912) was accepted at EMNLP 2022 (findings).
 
-<b>October 2022</b>: Check out our work on [Language-Family Adapters for Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf)! 
+<b>October 2022</b>: Check out our work on [Language-Family Adapters for Low-Resource Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf)! 
 
 <b>September 2022</b>: Invited talk at [Lilt AI](https://lilt.com/) on our recent NAACL paper! 
 ([slides](https://alexandra-chron.github.io/files/hierdomadapt.pdf)).
@@ -64,6 +66,11 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
           <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
           European Chapter of the Association for Computational Linguistics (EACL) Findings, 2023<br/>
         </li>
+         <li>
+          <b><a href="https://arxiv.org/pdf/2209.15236.pdf">Language-Family Adapters for Low-Resource Multilingual Neural Machine Translation</a></b> <br/>
+          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
+          Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT), 2023 <br/>
+          </li>
             <li>
            <b><a  href="https://aclanthology.org/2022.naacl-main.96.pdf">Efficient Hierarchical Domain Adaptation for Pretrained Language Models</a></b>          
           [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>]
