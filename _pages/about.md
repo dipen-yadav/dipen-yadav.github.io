@@ -24,7 +24,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 
  <h2>News</h2>
  
- <b>October 2022</b>: Our paper [Language-Family Adapters for Low-Resource Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf) was accepted at LoResMT, EACL 2023!
+ <b>March 2023</b>: Our paper [Language-Family Adapters for Low-Resource Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf) was accepted at LoResMT, EACL 2023!
 
  <b>February 2023</b>: Check out or work on [Isochronous Automatic Dubbing](https://arxiv.org/pdf/2302.12979.pdf); this is the result of my internship in Amazon AI last fall. 
 
