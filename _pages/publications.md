@@ -20,15 +20,15 @@ Publications and arxiv preprints:
           <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
           European Chapter of the Association for Computational Linguistics (EACL) Findings, 2023 <br/>
         </li>
+         <li>
+          <b><a href="https://arxiv.org/pdf/2209.15236.pdf">Language-Family Adapters for Low-Resource Multilingual Neural Machine Translation</a></b> <br/>
+          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
+          Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT), 2023 <br/>
+          </li>
           <li>
           <b><a href="https://arxiv.org/abs/2210.11912">m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter</a></b> <br/>
           <a href="https://lavine-lmu.github.io/">Wen Lai</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
           Empirical Methods on Natural Language Processing (EMNLP) Findings, 2022 <br/>
-          </li>
-            <li>
-          <b><a href="https://arxiv.org/pdf/2209.15236.pdf">Language-Family Adapters for Low-Resource Multilingual Neural Machine Translation</a></b> <br/>
-          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
-          Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT), 2023 <br/>
           </li>
             <li>
            <b><a href="https://aclanthology.org/2022.naacl-main.96.pdf">Efficient Hierarchical Domain Adaptation for Pretrained Language Models</a></b>          
