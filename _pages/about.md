@@ -11,7 +11,7 @@ redirect_from:
 
 I am a final year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html), where I am advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/), working on natural language processing & machine learning. My research is in machine translation, multilinguality and domain adaptation. I am currently focusing on parameter-efficient fine-tuning methods; I am particularly excited about combining information from different languages, domains or tasks to enable positive transfer using modular approaches.
 
-In Spring 2023, I will be a research intern at [Google Brain](https://research.google/teams/brain/) in Berlin, where I will work with [Sebastian Ruder](https://www.ruder.io/), [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) and [Jonas Pfeiffer](https://pfeiffer.ai/).
+I am currently also a research intern at [Google Brain](https://research.google/teams/brain/) in Berlin, working with [Sebastian Ruder](https://www.ruder.io/), [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) and [Jonas Pfeiffer](https://pfeiffer.ai/).
 
 During my PhD, I interned (twice) at the [Allen Institute for AI](https://allenai.org/) with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en); I was part of the [AllenNLP](https://allenai.org/allennlp) team. I recently also interned at [Amazon AI](https://aws.amazon.com/machine-learning/) in Santa Clara, CA with [Brian Thompson](https://thompsonb.github.io/), [Prashant Mathur](http://mtresearcher.github.io/) and [Marcello Federico](https://www.marcellofederico.net), as part of the AI human language technology group.
 
@@ -23,7 +23,9 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 
 
  <h2>News</h2>
- 
+  
+  <b>April 2023</b>: (Very) happy to start a research internship in Google Berlin, as part of the Google Brain team!
+
  <b>March 2023</b>: Our paper [Language-Family Adapters for Low-Resource Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf) was accepted at LoResMT, EACL 2023!
 
  <b>February 2023</b>: Check out or work on [Isochronous Automatic Dubbing](https://arxiv.org/pdf/2302.12979.pdf); this is the result of my internship in Amazon AI last fall. 
