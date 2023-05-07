@@ -24,6 +24,8 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 
  <h2>News</h2>
   
+  <b>May 2023</b>: [Jesse](https://jessedodge.github.io/) gave a talk at the [LTI CMU Colloquium](https://lti.cs.cmu.edu/lti-colloquium), discussing our recent papers on efficient domain adaptation of pretrained language models ([1](https://aclanthology.org/2022.naacl-main.96.pdf), [2](https://arxiv.org/pdf/2302.07027.pdf)); you can check it out [here](https://youtu.be/ZFqm7NnRAe0).
+
   <b>April 2023</b>: (Very) happy to start a research internship in Google Berlin, as part of the Google Brain team!
 
  <b>March 2023</b>: Our paper [Language-Family Adapters for Low-Resource Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf) was accepted at LoResMT, EACL 2023!
