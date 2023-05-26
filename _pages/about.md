@@ -1,4 +1,4 @@
----
+=---
 permalink: /
 title: "About"
 excerpt: "Alexandra Chronopoulou"
@@ -11,7 +11,7 @@ redirect_from:
 
 I am a final year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html), where I am advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/), working on natural language processing & machine learning. My research is in machine translation, multilinguality and domain adaptation. I am currently focusing on parameter-efficient fine-tuning methods; I am particularly excited about combining information from different languages, domains or tasks to enable positive transfer using modular approaches.
 
-I am currently also a research intern at [Google Brain](https://research.google/teams/brain/) in Berlin, working with [Sebastian Ruder](https://www.ruder.io/), [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) and [Jonas Pfeiffer](https://pfeiffer.ai/).
+I am currently also a research intern at [Google Deepmind](https://www.deepmind.com/) in Berlin, hosted by[Sebastian Ruder](https://www.ruder.io/ and [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17).
 
 During my PhD, I interned (twice) at the [Allen Institute for AI](https://allenai.org/) with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en); I was part of the [AllenNLP](https://allenai.org/allennlp) team. I recently also interned at [Amazon AI](https://aws.amazon.com/machine-learning/) in Santa Clara, CA with [Brian Thompson](https://thompsonb.github.io/), [Prashant Mathur](http://mtresearcher.github.io/) and [Marcello Federico](https://www.marcellofederico.net), as part of the AI human language technology group.
 
