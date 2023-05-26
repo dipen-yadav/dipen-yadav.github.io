@@ -1,4 +1,4 @@
-=---
+---
 permalink: /
 title: "About"
 excerpt: "Alexandra Chronopoulou"
