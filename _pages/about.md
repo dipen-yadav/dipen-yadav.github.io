@@ -1,4 +1,4 @@
----
+  ---
 permalink: /
 title: "About"
 excerpt: "Alexandra Chronopoulou"
@@ -24,33 +24,39 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 
  <h2>News</h2>
   
-  <b>May 2023</b>: [Jesse](https://jessedodge.github.io/) gave a talk at the [LTI CMU Colloquium](https://lti.cs.cmu.edu/lti-colloquium), discussing our recent papers on efficient domain adaptation of pretrained language models ([1](https://aclanthology.org/2022.naacl-main.96.pdf), [2](https://arxiv.org/pdf/2302.07027.pdf)); you can check it out [here](https://youtu.be/ZFqm7NnRAe0).
 
-  <b>April 2023</b>: (Very) happy to start a research internship in Google Berlin, as part of the Google Brain team!
+ <b>May 2023</b>: Our paper [Mitigating Data Imbalance and Representation Degeneration in
+Multilingual Machine Translation](https://arxiv.org/pdf/2305.12786.pdf) is out
 
- <b>March 2023</b>: Our paper [Language-Family Adapters for Low-Resource Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf) was accepted at LoResMT, EACL 2023!
+ <b>May 2023</b>: Our paper [On the Copying Problem of Unsupervised NMT: A Training Schedule with a Language Discriminator Loss]() was accepted to IWSLT 2023 and our paper [Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters](https://arxiv.org/pdf/2305.13204.pdf) (from my Amazon internship) was accepted to Interspeech 2023
 
- <b>February 2023</b>: Check out or work on [Isochronous Automatic Dubbing](https://arxiv.org/pdf/2302.12979.pdf); this is the result of my internship in Amazon AI last fall. 
+  <b>May 2023</b>: [Jesse](https://jessedodge.github.io/) gave a talk at the [LTI CMU Colloquium](https://lti.cs.cmu.edu/lti-colloquium), discussing our recent papers on efficient domain adaptation of pretrained language models ([1](https://aclanthology.org/2022.naacl-main.96.pdf), [2](https://arxiv.org/pdf/2302.07027.pdf)); you can check it out [here](https://youtu.be/ZFqm7NnRAe0
 
-<b>February 2023</b>: I am co-organizing a shared task on [dubbing](https://iwslt.org/2023/dubbing) in [IWSLT 2023](https://iwslt.org/2023/) (co-located with ACL next summer) along with former teammates from Amazon AI. 
+  <b>April 2023</b>: Very happy to start a research internship in Google Berlin, as part of Google Deepmind!
 
-<b>January 2023</b>: The paper [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://arxiv.org/pdf/2302.07027.pdf) from my internship research project at Allen AI was accepted at EACL 2023 (findings)!
+ <b>March 2023</b>: Our paper [Language-Family Adapters for Low-Resource Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf) was accepted to LoResMT, EACL 2023!
+
+ <b>February 2023</b>: Check out or work on [Isochronous Automatic Dubbing](https://arxiv.org/pdf/2302.12979.pdf) (from my internship at Amazon last fall)
+
+<b>February 2023</b>: I am co-organizing a shared task on [dubbing](https://iwslt.org/2023/dubbing) in [IWSLT 2023](https://iwslt.org/2023/) (co-located with ACL next summer) along with former teammates from Amazon
+
+<b>January 2023</b>: Our paper [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://arxiv.org/pdf/2302.07027.pdf) from my internship at Allen AI was accepted to EACL 2023 (findings)!
 
 
-<b>October 2022</b>: Our paper [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://arxiv.org/abs/2210.11912) was accepted at EMNLP 2022 (findings).
+<b>October 2022</b>: Our work [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://arxiv.org/abs/2210.11912) was accepted to EMNLP 2022 (findings)
 
 <b>October 2022</b>: Check out our work on [Language-Family Adapters for Low-Resource Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf)! 
 
 <b>September 2022</b>: Invited talk at [Lilt AI](https://lilt.com/) on our recent NAACL paper! 
-([slides](https://alexandra-chron.github.io/files/hierdomadapt.pdf)).
+([slides](https://alexandra-chron.github.io/files/hierdomadapt.pdf))
 
-<b>August 2022</b>: Happy to share that I started an internship at Amazon AI in Santa Clara, California! I will spend this fall working on speech translation with the Doubtfire team. 
+<b>August 2022</b>: Happy to share that I started an internship at Amazon AI in Santa Clara, California! I will spend this fall working on speech translation with the Doubtfire team
 
-<b>June 2022</b>: Invited talk at the [DG CNECT workshop](https://lr-coordination.eu/workshop4) on large language models ([slides](https://alexandra-chron.github.io/files/talk_dgcnect.pdf)).
+<b>June 2022</b>: Invited talk at the [DG CNECT workshop](https://lr-coordination.eu/workshop4) on large language models ([slides](https://alexandra-chron.github.io/files/talk_dgcnect.pdf))
 
 <b>May 2022</b>: Excited to start another internship at Allen AI, working with Jesse Dodge and Matt Peters!
 
-<b>April 2022</b>: The paper [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf) from my internship in Allen AI was accepted at NAACL 2022 (main track); I wrote a [blog post](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230) about it, give it a read!
+<b>April 2022</b>: Our paper [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf) from my internship in Allen AI was accepted to NAACL 2022 (main track); I wrote a [blog post](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230) about it, give it a read!
 
 <!-- <b>July 2021</b>: Started an internship at Allen AI, working with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en)! -->
 

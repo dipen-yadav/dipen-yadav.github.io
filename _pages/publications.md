@@ -10,6 +10,16 @@ author_profile: true
 Publications and arxiv preprints: 
 
 <ul class="sparse-list">
+              <li>
+          <b>On the Copying Problem of Unsupervised NMT: A Training Schedule with a Language Discriminator Loss </b> <br/>
+         <a href="https://yihongl1u.github.io/">Yihong Liu</a>, <b>Alexandra Chronopoulou</b>, <a href="https://schuetze.cis.lmu.de/about/">Hinrich Schutze/a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a><br/>
+          IWSLT 2023 (to appear) <br/>
+        </li>
+            <li>
+          <b><a  href="https://arxiv.org/pdf/2305.13204.pdf">Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters</a></b> <br/>
+         <a href="https://proyag.github.io/">Proyag Pal</a>, <a href="https://thompsonb.github.io/">Brian Thompson</a>, <a href="https://scholar.google.com/citations?user=Cida6AcAAAAJ&hl=en">Yogesh Virkar</a>, <a href="http://mtresearcher.github.io/">Prashant Mathur</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.marcellofederico.net/">Marcello Federico</a><br/>
+          INTERSPEECH 2023 (to appear) <br/>
+        </li>
           <li>
           <b><a  href="https://arxiv.org/pdf/2302.12979.pdf">Jointly Optimizing Translations and Speech Timing to Improve Isochrony in Automatic Dubbing</a></b> <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://thompsonb.github.io/">Brian Thompson</a>, <a href="http://mtresearcher.github.io/">Prashant Mathur</a>, <a href="https://scholar.google.com/citations?user=Cida6AcAAAAJ&hl=en">Yogesh Virkar</a>, <a href="https://surafelml.github.io/">Surafel M. Lakew</a>, <a href="https://www.marcellofederico.net/">Marcello Federico</a><br/>
