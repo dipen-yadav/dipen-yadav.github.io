@@ -76,7 +76,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
           EACL 2023 (Findings)<br/>
         </li>
          <li>
-          <b><a href="https://arxiv.org/pdf/2209.15236.pdf">Language-Family Adapters for Low-Resource Multilingual Neural Machine Translation</a></b> <br/>
+          <b><a href="https://arxiv.org/pdf/2209.15236.pdf">Language-Family Adapters for Low-Resource Multilingual Neural Machine Translation</a></b> [<a href="https://alexandra-chron.github.io/files/langfam_adapters.pdf" class="link-in-list">slides</a>] <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
           EACL LoResMT workshop 2023 <br/>
           </li>
