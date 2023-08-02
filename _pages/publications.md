@@ -56,12 +56,17 @@ author_profile: true
 
 <ul class="sparse-list">
             <li>
+          <b><a href="https://aclanthology.org/2023.iwslt-1.1.pdf"> Findings of the IWSLT 2023 Evaluation Campaign </a></b> <br/>
+          <a href="https://milind-agarwal.github.io/">Milind Agarwal</a>, ..., <b>Alexandra Chronopoulou</b>, et al. (50+ authors) <br/>
+          IWSLT 2023 <br/>
+          </li>
+            <li>
           <b><a href="https://arxiv.org/pdf/2305.12786.pdf"> Mitigating Data Imbalance and Representation Degeneration in Multilingual Machine Translation</a></b> <br/>
           <a href="https://lavine-lmu.github.io/">Wen Lai</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
           arxiv preprint <br/>
           </li>
               <li>
-          <b>On the Copying Problem of Unsupervised NMT: A Training Schedule with a Language Discriminator Loss </b> <br/>
+          <b><a href="https://aclanthology.org/2023.iwslt-1.48.pdf"> On the Copying Problem of Unsupervised NMT: A Training Schedule with a Language Discriminator Loss </a></b> <br/>
          <a href="https://yihongl1u.github.io/">Yihong Liu</a>, <b>Alexandra Chronopoulou</b>, <a href="https://schuetze.cis.lmu.de/about/">Hinrich Schutze</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a><br/>
           IWSLT 2023 <br/>
         </li>
