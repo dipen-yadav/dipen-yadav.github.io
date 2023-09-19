@@ -15,40 +15,44 @@ author_profile: true
           <b>Alexandra Chronopoulou</b>, <a href="https://thompsonb.github.io/">Brian Thompson</a>, <a href="http://mtresearcher.github.io/">Prashant Mathur</a>, <a href="https://scholar.google.com/citations?user=Cida6AcAAAAJ&hl=en">Yogesh Virkar</a>, <a href="https://surafelml.github.io/">Surafel M. Lakew</a>, <a href="https://www.marcellofederico.net/">Marcello Federico</a><br/>
           arxiv preprint <br/> 
         </li>
-           <li>
-          <b><a  href="https://arxiv.org/pdf/2302.07027.pdf">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> [<a href="https://alexandra-chron.github.io/files/adaptersoup.pdf" class="link-in-list">slides</a>] <br/> 
+          <li>
+          <b><a  href="https://aclanthology.org/2023.findings-eacl.153.pdf">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> [<a href="https://alexandra-chron.github.io/files/adaptersoup.pdf" class="link-in-list">slides</a>] <br/> 
           <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
-          EACL 2023 (Findings) <br/>
+          EACL 2023 (Findings)<br/>
         </li>
          <li>
-          <b><a href="https://arxiv.org/pdf/2209.15236.pdf">Language-Family Adapters for Low-Resource Multilingual Neural Machine Translation</a></b> <br/>
-          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> [<a href="https://alexandra-chron.github.io/files/langfam_adapters.pdf" class="link-in-list">slides</a>] <br/>
+          <b><a href="https://aclanthology.org/2023.loresmt-1.5.pdf">Language-Family Adapters for Low-Resource Multilingual Neural Machine Translation</a></b> [<a href="https://alexandra-chron.github.io/files/langfam_adapters.pdf" class="link-in-list">slides</a>] <br/>
+          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
           EACL LoResMT workshop 2023 <br/>
           </li>
-            <li>
-           <b><a href="https://aclanthology.org/2022.naacl-main.96.pdf">Efficient Hierarchical Domain Adaptation for Pretrained Language Models</a></b>          
+             <li>
+           <b><a  href="https://aclanthology.org/2022.naacl-main.96.pdf">Efficient Hierarchical Domain Adaptation for Pretrained Language Models</a></b>          
           [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>]
           [<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>]
           [<a href="https://alexandra-chron.github.io/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>] <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
           NAACL 2022<br/>
+          <!-- [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>] -->
         </li>
           <li>
-          <b><a href="https://www.aclweb.org/anthology/2021.naacl-main.16.pdf">Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</a></b>
+          <b><a href="https://aclanthology.org/2021.naacl-main.16.pdf">Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</a></b>
           [<a href="https://github.com/alexandra-chron/lexical_xlm_relm" class="link-in-list">code</a>] <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
-          NAACL 2021<br/>        
+          NAACL 2021<br/>
+          <!-- [<a href="https://www.aclweb.org/anthology/2021.naacl-main.16.pdf">paper</a>] -->
         </li>
         <li>
-          <b><a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf">Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT</a></b>     
-          [<a href="https://github.com/alexandra-chron/relm_unmt">code</a>] [<a href="https://alexandra-chron.github.io/files/relm.pdf" class="link-in-list">slides</a>]<br/>
+          <b><a href="https://aclanthology.org/2020.emnlp-main.214.pdf">Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT</a></b>         [<a href="https://github.com/alexandra-chron/relm_unmt">code</a>]
+          [<a href="https://alexandra-chron.github.io/files/relm.pdf" class="link-in-list">slides</a>]<br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
           EMNLP 2020 <br/>
+          <!-- [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf" class="link-in-list">paper</a>] -->
         </li>
         <li>
-          <b><a href="https://www.aclweb.org/anthology/N19-1213.pdf">An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</a></b>  [<a href="https://github.com/alexandra-chron/siatl">code</a>] <br/>
+          <b><a href="https://aclanthology.org/N19-1213.pdf">An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</a></b>  [<a href="https://github.com/alexandra-chron/siatl" class="link-in-list">code</a>] <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://cbaziotis.github.io/">Christos Baziotis</a>, <a href="https://slp-ntua.github.io/potam/">Alexandros Potamianos</a> <br/>
           NAACL 2019<br/>
+          <!-- [<a href="https://www.aclweb.org/anthology/N19-1213.pdf" class="link-in-list">paper</a>] -->
         </li>
 </ul>
 
@@ -71,23 +75,23 @@ author_profile: true
           IWSLT 2023 <br/>
         </li>
             <li>
-          <b><a  href="https://arxiv.org/pdf/2305.13204.pdf">Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters</a></b> <br/>
+          <b><a  href="https://www.isca-speech.org/archive/pdfs/interspeech_2023/pal23_interspeech.pdf">Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters</a></b> <br/>
          <a href="https://proyag.github.io/">Proyag Pal</a>, <a href="https://thompsonb.github.io/">Brian Thompson</a>, <a href="https://scholar.google.com/citations?user=Cida6AcAAAAJ&hl=en">Yogesh Virkar</a>, <a href="http://mtresearcher.github.io/">Prashant Mathur</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.marcellofederico.net/">Marcello Federico</a><br/>
           INTERSPEECH 2023 <br/>
         </li>
           <li>
-          <b><a href="https://arxiv.org/abs/2210.11912">m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter</a></b> <br/>
+          <b><a href="https://aclanthology.org/2022.findings-emnlp.315.pdf">m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter</a></b> <br/>
           <a href="https://lavine-lmu.github.io/">Wen Lai</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
           EMNLP 2022 (Findings) <br/>
           </li>
         <li>
-          <b><a href="https://www.aclweb.org/anthology/2020.findings-emnlp.278.pdf">Domain Adversarial Fine-Tuning as an Effective Regularizer</a></b>  
+          <b><a href="https://aclanthology.org/2020.findings-emnlp.278.pdf">Domain Adversarial Fine-Tuning as an Effective Regularizer</a></b>  
           [<a href="https://github.com/GeorgeVern/AFTERV1.0">code</a>]<br/>
           <a href="https://georgevern.github.io/">Giorgos Vernikos</a>, <a href="https://katerinamargatina.github.io/">Katerina Margatina</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www2.aueb.gr/users/ion/">Ion Androutsopoulos</a> <br/>
           EMNLP 2020 (Findings) <br/>
         </li>
         <li>
-          <b><a href="https://www.aclweb.org/anthology/2020.wmt-1.128.pdf">The LMU Munich System for the WMT 2020 Unsupervised Machine Translation Shared Task</a></b>        
+          <b><a href="https://aclanthology.org/2020.wmt-1.128.pdf">The LMU Munich System for the WMT 2020 Unsupervised Machine Translation Shared Task</a></b>        
           [<a href="https://github.com/alexandra-chron/umt-lmu-wmt2020" class="link-in-list">code</a>]
           [<a href="https://drive.google.com/file/d/1gZvhZd5TW3z7VJubts13Y35L8H1mbBT1/view?usp=sharing" class="link-in-list">slides</a>]
          [<a href="https://drive.google.com/file/d/1bTjshwr8amPLyxlPzVDEcB6DtA4vjVUX/view?usp=sharing" class="link-in-list">poster</a>]<br/>
@@ -95,13 +99,13 @@ author_profile: true
           WMT 2020 <br/>
           </li>
         <li>
-           <b><a href="https://www.aclweb.org/anthology/W18-6209.pdf">NTUA-SLP at IEST 2018: Ensemble of neural transfer methods for implicit emotion classification</a></b> 
+           <b><a href="https://aclanthology.org/W18-6209.pdf">NTUA-SLP at IEST 2018: Ensemble of neural transfer methods for implicit emotion classification</a></b> 
            [<a href="https://github.com/alexandra-chron/ntua-slp-wassa-iest2018">code</a>]   <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://katerinamargatina.github.io/">Katerina Margatina</a>, <a href="https://cbaziotis.github.io/">Christos Baziotis</a>, <a href="https://slp-ntua.github.io/potam/">Alexandros Potamianos</a> <br/>
           EMNLP WASSA workshop 2018 <br/>
         </li>
         <li>
-          <b><a href="https://www.aclweb.org/anthology/S18-1037.pdf">NTUA-SLP at SemEval-2018 Task 1: Predicting Affective Content in Tweets with Deep Attentive RNNs and Transfer Learning</a></b> [<a href="https://github.com/cbaziotis/ntua-slp-semeval2018">code</a>] <br/>
+          <b><a href="https://aclanthology.org/S18-1037.pdf">NTUA-SLP at SemEval-2018 Task 1: Predicting Affective Content in Tweets with Deep Attentive RNNs and Transfer Learning</a></b> [<a href="https://github.com/cbaziotis/ntua-slp-semeval2018">code</a>] <br/>
          <a href="https://cbaziotis.github.io/">Christos Baziotis</a>, <a href="https://is.mpg.de/employees/nathanasiou">Nikos Athanasiou</a>, <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.gr/citations?user=V8gp47MAAAAJ&hl=en">Athanasia Kolovou</a>, <a href="https://georgepar.github.io/">Georgios Paraskevopoulos</a>, <a href="https://scholar.google.gr/citations?user=y329tukAAAAJ&hl=en">Nikolaos Ellinas</a>, <a href="https://sail.usc.edu/people/shri.html">Shrikanth Narayanan</a>, <a href="https://slp-ntua.github.io/potam/">Alexandros Potamianos</a> <br/>
           NAACL SemEval workshop 2018 <br />
         </li>

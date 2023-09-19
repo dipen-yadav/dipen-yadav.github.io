@@ -13,7 +13,7 @@ I am a final year PhD student in the [Center for Information and Language Proces
 
 <!-- I am currently also a research intern at [Google Deepmind](https://www.deepmind.com/) in Berlin, hosted by [Sebastian Ruder](https://www.ruder.io/) and [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17). -->
 
-During my PhD, I interned at [Google Deepmind](https://www.deepmind.com/) in Berlin, hosted by [Sebastian Ruder](https://www.ruder.io/) and [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17). I also interned (twice) at the [Allen Institute for AI](https://allenai.org/) with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en); I was part of the [AllenNLP](https://allenai.org/allennlp) team. Finally, I spent 4 months at [Amazon AI](https://aws.amazon.com/machine-learning/) in Santa Clara, CA , working with [Brian Thompson](https://thompsonb.github.io/), [Prashant Mathur](http://mtresearcher.github.io/) and [Marcello Federico](https://www.marcellofederico.net) as an intern in the AI human language technology group.
+During my PhD, I interned at [Google DeepΜind](https://www.deepmind.com/) in Berlin, hosted by [Sebastian Ruder](https://www.ruder.io/) and [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17). I also interned (twice) at the [Allen Institute for AI](https://allenai.org/) with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en); I was part of the [AllenNLP](https://allenai.org/allennlp) team. Finally, I spent 4 months at [Amazon AI](https://aws.amazon.com/machine-learning/) in Santa Clara, CA , working with [Brian Thompson](https://thompsonb.github.io/), [Prashant Mathur](http://mtresearcher.github.io/) and [Marcello Federico](https://www.marcellofederico.net) as an intern in the AI human language technology group.
 
 
 Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [Electrical and Computer Engineering (ECE)](https://www.ece.ntua.gr/en) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/) in Greece. 
@@ -27,22 +27,22 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 
  <b>May 2023</b>: Our paper [Mitigating Data Imbalance and Representation Degeneration in Multilingual Machine Translation](https://arxiv.org/pdf/2305.12786.pdf) is out.
 
- <b>May 2023</b>: Our paper [On the Copying Problem of Unsupervised NMT: A Training Schedule with a Language Discriminator Loss]() was accepted to IWSLT 2023 and our paper [Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters](https://arxiv.org/pdf/2305.13204.pdf) (from my Amazon internship) was accepted to Interspeech 2023!
+ <b>May 2023</b>: Our paper [On the Copying Problem of Unsupervised NMT: A Training Schedule with a Language Discriminator Loss](https://aclanthology.org/2023.iwslt-1.48.pdf) was accepted to IWSLT 2023 and our paper [Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters](https://www.isca-speech.org/archive/pdfs/interspeech_2023/pal23_interspeech.pdf) (from my Amazon internship) was accepted to Interspeech 2023!
 
-  <b>May 2023</b>: [Jesse](https://jessedodge.github.io/) gave a talk at the [LTI CMU Colloquium](https://lti.cs.cmu.edu/lti-colloquium), discussing our recent papers on efficient domain adaptation of pretrained language models ([1](https://aclanthology.org/2022.naacl-main.96.pdf), [2](https://arxiv.org/pdf/2302.07027.pdf)); you can check it out [here](https://youtu.be/ZFqm7NnRAe0).
+  <b>May 2023</b>: [Jesse](https://jessedodge.github.io/) gave a talk at the [LTI CMU Colloquium](https://lti.cs.cmu.edu/lti-colloquium), discussing our recent papers on efficient domain adaptation of pretrained language models ([1](https://aclanthology.org/2022.naacl-main.96.pdf), [2](https://aclanthology.org/2023.findings-eacl.153.pdf)); you can check it out [here](https://youtu.be/ZFqm7NnRAe0).
 
   <b>April 2023</b>: Very happy to start a research internship in Google Berlin, as part of Google DeepMind!
 
- <b>March 2023</b>: Our paper [Language-Family Adapters for Low-Resource Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf) was accepted to LoResMT, EACL 2023!
+ <b>March 2023</b>: Our paper [Language-Family Adapters for Low-Resource Multilingual NMT](https://aclanthology.org/2023.loresmt-1.5.pdf) was accepted to LoResMT, EACL 2023!
 
  <b>February 2023</b>: Check out or work on [Isochronous Automatic Dubbing](https://arxiv.org/pdf/2302.12979.pdf) (from my internship at Amazon last fall)!
 
 <b>February 2023</b>: I am co-organizing a shared task on [dubbing](https://iwslt.org/2023/dubbing) in [IWSLT 2023](https://iwslt.org/2023/) (co-located with ACL next summer) along with former teammates from Amazon.
 
-<b>January 2023</b>: Our paper [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://arxiv.org/pdf/2302.07027.pdf) from my internship at Allen AI was accepted to EACL 2023 (findings)!
+<b>January 2023</b>: Our paper [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://aclanthology.org/2023.loresmt-1.5.pdf) from my internship at Allen AI was accepted to EACL 2023 (findings)!
 
 
-<b>October 2022</b>: Our work [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://arxiv.org/abs/2210.11912) was accepted to EMNLP 2022 (findings)!
+<b>October 2022</b>: Our work [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://aclanthology.org/2022.findings-emnlp.315.pdf) was accepted to EMNLP 2022 (findings)!
 
 <b>October 2022</b>: Check out our work on [Language-Family Adapters for Low-Resource Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf)! 
 
@@ -50,12 +50,12 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 ([slides](https://alexandra-chron.github.io/files/hierdomadapt.pdf))
 
 <b>August 2022</b>: Happy to share that I started an internship at Amazon AI in Santa Clara, California! I will spend this fall working on speech translation with the Doubtfire team.
-
+<!-- 
 <b>June 2022</b>: Invited talk at the [DG CNECT workshop](https://lr-coordination.eu/workshop4) on large language models ([slides](https://alexandra-chron.github.io/files/talk_dgcnect.pdf)).
 
 <b>May 2022</b>: Excited to start another internship at Allen AI, working with Jesse Dodge and Matt Peters!
 
-<b>April 2022</b>: Our paper [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf) from my internship in Allen AI was accepted to NAACL 2022 (main track); I wrote a [blog post](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230) about it, give it a read!
+<b>April 2022</b>: Our paper [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf) from my internship in Allen AI was accepted to NAACL 2022 (main track); I wrote a [blog post](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230) about it, give it a read! -->
 
 <!-- <b>July 2021</b>: Started an internship at Allen AI, working with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en)! -->
 
@@ -71,12 +71,12 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 
 <ul class="sparse-list">
           <li>
-          <b><a  href="https://arxiv.org/pdf/2302.07027.pdf">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> [<a href="https://alexandra-chron.github.io/files/adaptersoup.pdf" class="link-in-list">slides</a>] <br/> 
+          <b><a  href="https://aclanthology.org/2023.findings-eacl.153.pdf">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> [<a href="https://alexandra-chron.github.io/files/adaptersoup.pdf" class="link-in-list">slides</a>] <br/> 
           <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
           EACL 2023 (Findings)<br/>
         </li>
          <li>
-          <b><a href="https://arxiv.org/pdf/2209.15236.pdf">Language-Family Adapters for Low-Resource Multilingual Neural Machine Translation</a></b> [<a href="https://alexandra-chron.github.io/files/langfam_adapters.pdf" class="link-in-list">slides</a>] <br/>
+          <b><a href="https://aclanthology.org/2023.loresmt-1.5.pdf">Language-Family Adapters for Low-Resource Multilingual Neural Machine Translation</a></b> [<a href="https://alexandra-chron.github.io/files/langfam_adapters.pdf" class="link-in-list">slides</a>] <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
           EACL LoResMT workshop 2023 <br/>
           </li>
@@ -90,21 +90,21 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
           <!-- [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>] -->
         </li>
           <li>
-          <b><a href="https://www.aclweb.org/anthology/2021.naacl-main.16.pdf">Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</a></b>
+          <b><a href="https://aclanthology.org/2021.naacl-main.16.pdf">Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</a></b>
           [<a href="https://github.com/alexandra-chron/lexical_xlm_relm" class="link-in-list">code</a>] <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
           NAACL 2021<br/>
           <!-- [<a href="https://www.aclweb.org/anthology/2021.naacl-main.16.pdf">paper</a>] -->
         </li>
         <li>
-          <b><a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf">Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT</a></b>         [<a href="https://github.com/alexandra-chron/relm_unmt">code</a>]
+          <b><a href="https://aclanthology.org/2020.emnlp-main.214.pdf">Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT</a></b>         [<a href="https://github.com/alexandra-chron/relm_unmt">code</a>]
           [<a href="https://alexandra-chron.github.io/files/relm.pdf" class="link-in-list">slides</a>]<br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
           EMNLP 2020 <br/>
           <!-- [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf" class="link-in-list">paper</a>] -->
         </li>
         <li>
-          <b><a href="https://www.aclweb.org/anthology/N19-1213.pdf">An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</a></b>  [<a href="https://github.com/alexandra-chron/siatl" class="link-in-list">code</a>] <br/>
+          <b><a href="https://aclanthology.org/N19-1213.pdf">An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</a></b>  [<a href="https://github.com/alexandra-chron/siatl" class="link-in-list">code</a>] <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://cbaziotis.github.io/">Christos Baziotis</a>, <a href="https://slp-ntua.github.io/potam/">Alexandros Potamianos</a> <br/>
           NAACL 2019<br/>
           <!-- [<a href="https://www.aclweb.org/anthology/N19-1213.pdf" class="link-in-list">paper</a>] -->
