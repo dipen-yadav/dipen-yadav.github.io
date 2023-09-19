@@ -50,12 +50,12 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 ([slides](https://alexandra-chron.github.io/files/hierdomadapt.pdf))
 
 <b>August 2022</b>: Happy to share that I started an internship at Amazon AI in Santa Clara, California! I will spend this fall working on speech translation with the Doubtfire team.
-<!-- 
-<b>June 2022</b>: Invited talk at the [DG CNECT workshop](https://lr-coordination.eu/workshop4) on large language models ([slides](https://alexandra-chron.github.io/files/talk_dgcnect.pdf)).
 
-<b>May 2022</b>: Excited to start another internship at Allen AI, working with Jesse Dodge and Matt Peters!
+<!-- <b>June 2022</b>: Invited talk at the [DG CNECT workshop](https://lr-coordination.eu/workshop4) on large language models ([slides](https://alexandra-chron.github.io/files/talk_dgcnect.pdf)). -->
 
-<b>April 2022</b>: Our paper [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf) from my internship in Allen AI was accepted to NAACL 2022 (main track); I wrote a [blog post](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230) about it, give it a read! -->
+<!-- <b>May 2022</b>: Excited to start another internship at Allen AI, working with Jesse Dodge and Matt Peters! -->
+
+<!-- <b>April 2022</b>: Our paper [Efficient Hierarchical Domain Adaptation for Pretrained Language Models](https://aclanthology.org/2022.naacl-main.96.pdf) from my internship in Allen AI was accepted to NAACL 2022 (main track); I wrote a [blog post](https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230) about it, give it a read!  -->
 
 <!-- <b>July 2021</b>: Started an internship at Allen AI, working with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en)! -->
 
@@ -104,7 +104,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
           <!-- [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf" class="link-in-list">paper</a>] -->
         </li>
         <li>
-          <b><a href="https://aclanthology.org/N19-1213.pdf">An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</a></b>  [<a href="https://github.com/alexandra-chron/siatl" class="link-in-list">code</a>] <br/>
+          <b><a href="https://www.aclweb.org/anthology/N19-1213.pdf">An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</a></b>  [<a href="https://github.com/alexandra-chron/siatl" class="link-in-list">code</a>] <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://cbaziotis.github.io/">Christos Baziotis</a>, <a href="https://slp-ntua.github.io/potam/">Alexandros Potamianos</a> <br/>
           NAACL 2019<br/>
           <!-- [<a href="https://www.aclweb.org/anthology/N19-1213.pdf" class="link-in-list">paper</a>] -->
