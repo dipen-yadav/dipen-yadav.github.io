@@ -117,4 +117,4 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 
 - My undergrad thesis supervisor was [Alexandros Potamianos](https://slp-ntua.github.io/potam/). I spent a good part of 2018 and 2019 in the Speech and Language Processing group of ECE, NTUA. Thesis: [Transfer Learning with Deep Neural Networks for Sentiment Analysis and Semantic Modeling](https://alexandra-chron.github.io/files/thesis_achronopoulou.pdf). During my last undergrad year I was also working as a Machine Learning Engineer at [Behavioral Signal Technologies](https://behavioralsignals.com/). 
 
-- I am from Athens, Greece and I enjoy literature, movies, the sea, summers in Greece, [Thanasis'](https://www.youtube.com/channel/UC4tLNPEm2HYi2UG7z78MfsQ) concerts, padel, and travelling. 
+- I am from Athens, Greece and I enjoy literature, movies, the sea, summers in Greece, wind-surfing (lately), [Thanasis'](https://www.youtube.com/channel/UC4tLNPEm2HYi2UG7z78MfsQ) concerts, skiing, padel, and travelling. 
