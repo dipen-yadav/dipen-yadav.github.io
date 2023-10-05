@@ -19,7 +19,7 @@ During my PhD, I interned at [Google DeepΜind](https://www.deepmind.com/) in Be
 Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [Electrical and Computer Engineering (ECE)](https://www.ece.ntua.gr/en) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/) in Greece. 
 
 
-<b>I will soon finish my PhD and be on the job market for industry research positions!</b>
+<b>I am in the job market for industry research positions!</b>
 
 
  <h2>News</h2>
