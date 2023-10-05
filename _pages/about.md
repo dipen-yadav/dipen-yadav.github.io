@@ -16,7 +16,7 @@ I am a final year PhD student in the [Center for Information and Language Proces
 During my PhD, I interned at [Google DeepΜind](https://www.deepmind.com/) in Berlin, hosted by [Sebastian Ruder](https://www.ruder.io/) and [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17). I also interned (twice) at the [Allen Institute for AI](https://allenai.org/) with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en); I was part of the [AllenNLP](https://allenai.org/allennlp) team. Finally, I spent 4 months at [Amazon AI](https://aws.amazon.com/machine-learning/) in Santa Clara, CA , working with [Brian Thompson](https://thompsonb.github.io/), [Prashant Mathur](http://mtresearcher.github.io/) and [Marcello Federico](https://www.marcellofederico.net) as an intern in the AI human language technology group.
 
 
-Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [Electrical and Computer Engineering (ECE)](https://www.ece.ntua.gr/en) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/) in Greece. 
+Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [Electrical & Computer Engineering](https://www.ece.ntua.gr/en) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/). 
 
 
 <b>I am in the job market for industry research positions!</b>
@@ -42,14 +42,14 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 <b>January 2023</b>: Our paper [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://aclanthology.org/2023.loresmt-1.5.pdf) from my internship at Allen AI was accepted to EACL 2023 (findings)!
 
 
-<b>October 2022</b>: Our work [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://aclanthology.org/2022.findings-emnlp.315.pdf) was accepted to EMNLP 2022 (findings)!
+<!-- <b>October 2022</b>: Our work [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://aclanthology.org/2022.findings-emnlp.315.pdf) was accepted to EMNLP 2022 (findings)!
 
 <b>October 2022</b>: Check out our work on [Language-Family Adapters for Low-Resource Multilingual NMT](https://arxiv.org/pdf/2209.15236.pdf)! 
 
 <b>September 2022</b>: Invited talk at [Lilt AI](https://lilt.com/) on our recent NAACL paper.
 ([slides](https://alexandra-chron.github.io/files/hierdomadapt.pdf))
 
-<b>August 2022</b>: Happy to share that I started an internship at Amazon AI in Santa Clara, California! I will spend this fall working on speech translation with the Doubtfire team.
+<b>August 2022</b>: Happy to share that I started an internship at Amazon AI in Santa Clara, California! I will spend this fall working on speech translation with the Doubtfire team. -->
 
 <!-- <b>June 2022</b>: Invited talk at the [DG CNECT workshop](https://lr-coordination.eu/workshop4) on large language models ([slides](https://alexandra-chron.github.io/files/talk_dgcnect.pdf)). -->
 
