@@ -24,6 +24,7 @@ Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [
 
  <h2>News</h2>
   
+ <b>October 2023</b>: Happy to share that our paper [Mitigating Data Imbalance and Representation Degeneration in Multilingual Machine Translation](https://arxiv.org/pdf/2305.12786.pdf) has been accepted to the Findings of EMNLP 2023!
 
  <b>May 2023</b>: Our paper [Mitigating Data Imbalance and Representation Degeneration in Multilingual Machine Translation](https://arxiv.org/pdf/2305.12786.pdf) is out.
 

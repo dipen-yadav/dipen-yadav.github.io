@@ -67,7 +67,7 @@ author_profile: true
             <li>
           <b><a href="https://arxiv.org/pdf/2305.12786.pdf"> Mitigating Data Imbalance and Representation Degeneration in Multilingual Machine Translation</a></b> <br/>
           <a href="https://lavine-lmu.github.io/">Wen Lai</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
-          arxiv preprint <br/>
+          EMNLP 2023 (Findings) <br/>
           </li>
               <li>
           <b><a href="https://aclanthology.org/2023.iwslt-1.48.pdf"> On the Copying Problem of Unsupervised NMT: A Training Schedule with a Language Discriminator Loss </a></b> <br/>
