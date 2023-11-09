@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a final year PhD student in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html), where I am advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/), working on natural language processing & machine learning. My research is in machine translation, multilinguality and domain adaptation. I am currently focusing on parameter-efficient fine-tuning methods; I am particularly excited about combining information from different languages, domains or tasks to enable positive transfer using modular approaches.
+I am Alexandra, currently wrapping up my PhD in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html), where I am advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My work is on natural language processing & machine learning. More specifically, my research is in machine translation, multilinguality and domain adaptation. I am currently interested on parameter-efficient fine-tuning methods; I am particularly excited about combining information from different languages, domains or tasks to enable positive transfer using modular approaches.
 
 <!-- I am currently also a research intern at [Google Deepmind](https://www.deepmind.com/) in Berlin, hosted by [Sebastian Ruder](https://www.ruder.io/) and [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17). -->
 
