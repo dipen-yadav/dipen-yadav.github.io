@@ -13,7 +13,7 @@ author_profile: true
               <li>
           <b><a  href="https://arxiv.org/abs/2311.09344.pdf">Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization</a></b> <br/> 
           <b>Alexandra Chronopoulou</b>, <a href="https://pfeiffer.ai/">Jonas Pfeiffer</a>, <a href="https://scholar.google.com/citations?user=LdNDZRcAAAAJ&hl=en">Joshua Maynez</a>, <a href="https://cindyxinyiwang.github.io/">Xinyi Wang</a>, <a href="https://www.ruder.io/">Sebastian Ruder</a>, <a href="https://sites.google.com/site/priyankaagr17">Priyanka Agrawal</a>  <br/>
-          arXiv<br/>
+          arXiv 2023<br/>
         </li>
           <li>
           <b><a  href="https://aclanthology.org/2023.findings-eacl.153.pdf">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> [<a href="https://alexandra-chron.github.io/files/adaptersoup.pdf" class="link-in-list">slides</a>] <br/> 
