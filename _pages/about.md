@@ -23,7 +23,7 @@ Before starting the PhD, I graduated with a diploma (Bachelor and MEng) in [Elec
 
  <h2>News</h2>
  
-  <b>January 2024/b>: Excited to share that I have joined Google Bard in NYC as a Research Scientist!
+  <b>January 2024</b>: Excited to share that I have joined Google Bard in NYC as a Research Scientist!
 
  <b>November 2023</b>: New preprint is out on [Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization
 ](https://arxiv.org/abs/2311.09344.pdf) from my internship at Google DeepMind!
