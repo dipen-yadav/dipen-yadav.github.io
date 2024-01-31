@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alexandra Chronopoulou"
 title_separator          : "-"
 name                     : &name "Alexandra Chronopoulou"
-description              : &description "PhD student in the Center for Information and Language Processing (CIS), LMU Munich"
+description              : &description "Research Scientist at Google"
 url                      : https://alexandra-chron.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexandra-chron.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Alexandra Chronopoulou"
   avatar           : "profile.png"
-  bio              : "PhD student in the Center for Information and Language Processing (CIS), LMU Munich"
-  location         : "Munich, Germany"
+  bio              : "Research Scientist at Google"
+  location         : "New York, NY, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=XiwRCRIAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "achron at cis.lmu.de"
+  email            : "alexandrachron@google.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

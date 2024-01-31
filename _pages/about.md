@@ -9,21 +9,22 @@ redirect_from:
 ---
 
 
-I am Alexandra, currently wrapping up my PhD in the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) at [LMU Munich](https://www.en.uni-muenchen.de/index.html), where I am advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My work is on natural language processing & machine learning. More specifically, my research is in machine translation, multilinguality and domain adaptation. I am currently interested in parameter-efficient fine-tuning methods; I am particularly excited about combining information from different languages, domains or tasks to enable positive transfer using modular approaches.
+I am Alexandra, a Research Scientist at Google in the [Bard](https://bard.google.com/chat) team working on Natural Language Processing (Machine Learning). 
 
-<!-- I am currently also a research intern at [Google Deepmind](https://www.deepmind.com/) in Berlin, hosted by [Sebastian Ruder](https://www.ruder.io/) and [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17). -->
+Before that, I was a PhD student at the [University of Munich](https://www.en.uni-muenchen.de/index.html) supervised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My PhD research was mostly on combining information from various languages and domains to enable positive transfer during parameter-efficient fine-tuning of language models, especially under resource constraints.   
 
-During my PhD, I interned at [Google DeepΜind](https://www.deepmind.com/) in Berlin, hosted by [Sebastian Ruder](https://www.ruder.io/) and [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17). Before that, I interned (twice) at the [Allen Institute for AI](https://allenai.org/) with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en); I was part of the [AllenNLP](https://allenai.org/allennlp) team. I also spent 4 months at [Amazon AI](https://aws.amazon.com/machine-learning/) in Santa Clara, CA , working with [Brian Thompson](https://thompsonb.github.io/), [Prashant Mathur](http://mtresearcher.github.io/) and [Marcello Federico](https://www.marcellofederico.net) as an intern in the AI human language technology group.
+<!-- machine translation, multilinguality and domain adaptation. I am currently interested in parameter-efficient fine-tuning methods; I am particularly excited about combining information from different languages, domains or tasks to enable positive transfer using modular approaches. -->
 
+During my PhD, I interned at [Google DeepΜind](https://www.deepmind.com/) in Berlin, hosted by [Sebastian Ruder](https://www.ruder.io/) and [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17). Prior to that, I interned (twice) at the [Allen Institute for AI](https://allenai.org/) with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en); I was part of the [AllenNLP](https://allenai.org/allennlp) team. I also spent 4 months at [Amazon AI](https://aws.amazon.com/machine-learning/) in Santa Clara, CA , working with [Brian Thompson](https://thompsonb.github.io/), [Prashant Mathur](http://mtresearcher.github.io/) and [Marcello Federico](https://www.marcellofederico.net) as an intern in the AI human language technology group.
 
-Prior to joining LMU Munich, I graduated with a diploma (Bachelor and MEng) in [Electrical & Computer Engineering](https://www.ece.ntua.gr/en) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/). 
+Before starting the PhD, I graduated with a diploma (Bachelor and MEng) in [Electrical & Computer Engineering](https://www.ece.ntua.gr/en) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/). 
 
-
-<b>I am in the job market for industry research positions!</b>
 
 
  <h2>News</h2>
  
+  <b>January 2024/b>:
+
  <b>November 2023</b>: New preprint is out on [Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization
 ](https://arxiv.org/abs/2311.09344.pdf) from my internship at Google DeepMind!
 
