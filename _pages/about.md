@@ -23,7 +23,9 @@ Before starting the PhD, I graduated with a diploma (Bachelor and MEng) in [Elec
 
  <h2>News</h2>
  
-  <b>January 2024</b>: Excited to share that I have joined Google Bard in NYC as a Research Scientist!
+ <b>April 2024</b>: Check out the [Gemini 1.5 Pro API](https://developers.googleblog.com/en/gemini-15-pro-now-available-in-180-countries-with-native-audio-understanding-system-instructions-json-mode-and-more/), a top-tier accorindg to the [LMSys Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) ([technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf))
+
+<b>January 2024</b>: Excited to share that I have joined Google Bard in NYC as a Research Scientist!
 
  <b>November 2023</b>: New preprint is out on [Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization
 ](https://arxiv.org/abs/2311.09344.pdf) from my internship at Google DeepMind!
@@ -71,11 +73,15 @@ Before starting the PhD, I graduated with a diploma (Bachelor and MEng) in [Elec
 
 <b>July 2020</b>: Our system ranked first in the WMT 2020 Unsupervised Translation Shared Task (translation system between Upper Sorbian and German). <br> -->
 
+
  <h2>Selected Publications</h2>
 
-<!-- [<a href="https://alexandra-chron.github.io/publications/">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a>] -->
-
 <ul class="sparse-list">
+            <li>
+          <b><a  href="https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf">Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context </a></b> <br/> 
+          Gemini Team, Google (I was one of the > 1000 authors)
+          <br/>technical report<br/>
+        </li>
             <li>
           <b><a  href="https://arxiv.org/abs/2311.09344.pdf">Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization</a></b> <br/> 
           <b>Alexandra Chronopoulou</b>, <a href="https://pfeiffer.ai/">Jonas Pfeiffer</a>, <a href="https://scholar.google.com/citations?user=LdNDZRcAAAAJ&hl=en">Joshua Maynez</a>, <a href="https://cindyxinyiwang.github.io/">Xinyi Wang</a>, <a href="https://www.ruder.io/">Sebastian Ruder</a>, <a href="https://sites.google.com/site/priyankaagr17">Priyanka Agrawal</a>  <br/>
@@ -98,27 +104,6 @@ Before starting the PhD, I graduated with a diploma (Bachelor and MEng) in [Elec
           [<a href="https://alexandra-chron.github.io/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>] <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
           NAACL 2022<br/>
-          <!-- [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>] -->
-        </li>
-          <li>
-          <b><a href="https://aclanthology.org/2021.naacl-main.16.pdf">Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</a></b>
-          [<a href="https://github.com/alexandra-chron/lexical_xlm_relm" class="link-in-list">code</a>] <br/>
-          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
-          NAACL 2021<br/>
-          <!-- [<a href="https://www.aclweb.org/anthology/2021.naacl-main.16.pdf">paper</a>] -->
-        </li>
-        <li>
-          <b><a href="https://aclanthology.org/2020.emnlp-main.214.pdf">Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT</a></b>         [<a href="https://github.com/alexandra-chron/relm_unmt">code</a>]
-          [<a href="https://alexandra-chron.github.io/files/relm.pdf" class="link-in-list">slides</a>]<br/>
-          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
-          EMNLP 2020 <br/>
-          <!-- [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf" class="link-in-list">paper</a>] -->
-        </li>
-        <li>
-          <b><a href="https://www.aclweb.org/anthology/N19-1213.pdf">An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</a></b>  [<a href="https://github.com/alexandra-chron/siatl" class="link-in-list">code</a>] <br/>
-          <b>Alexandra Chronopoulou</b>, <a href="https://cbaziotis.github.io/">Christos Baziotis</a>, <a href="https://slp-ntua.github.io/potam/">Alexandros Potamianos</a> <br/>
-          NAACL 2019<br/>
-          <!-- [<a href="https://www.aclweb.org/anthology/N19-1213.pdf" class="link-in-list">paper</a>] -->
         </li>
 
 </ul>

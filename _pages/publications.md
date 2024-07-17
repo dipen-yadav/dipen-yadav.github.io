@@ -10,6 +10,11 @@ author_profile: true
  <font size="+2">Selected Papers </font>
 
 <ul class="sparse-list">
+             <li>
+          <b><a  href="https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf">Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context </a></b> <br/> 
+          Gemini Team, Google (I was one of the > 1000 authors)
+          <br/>technical report<br/>
+        </li>
               <li>
           <b><a  href="https://arxiv.org/abs/2311.09344.pdf">Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization</a></b> <br/> 
           <b>Alexandra Chronopoulou</b>, <a href="https://pfeiffer.ai/">Jonas Pfeiffer</a>, <a href="https://scholar.google.com/citations?user=LdNDZRcAAAAJ&hl=en">Joshua Maynez</a>, <a href="https://cindyxinyiwang.github.io/">Xinyi Wang</a>, <a href="https://www.ruder.io/">Sebastian Ruder</a>, <a href="https://sites.google.com/site/priyankaagr17">Priyanka Agrawal</a>  <br/>
