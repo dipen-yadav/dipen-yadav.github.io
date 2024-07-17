@@ -23,7 +23,7 @@ Before starting the PhD, I graduated with a diploma (Bachelor and MEng) in [Elec
 
  <h2>News</h2>
  
- <b>April 2024</b>: Check out the [Gemini 1.5 Pro API](https://developers.googleblog.com/en/gemini-15-pro-now-available-in-180-countries-with-native-audio-understanding-system-instructions-json-mode-and-more/), a top-tier accorindg to the [LMSys Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) ([technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf))
+ <b>April 2024</b>: Check out the [Gemini 1.5 Pro API](https://developers.googleblog.com/en/gemini-15-pro-now-available-in-180-countries-with-native-audio-understanding-system-instructions-json-mode-and-more/), a top-tier LLM according to the [LMSys Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) ([technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf))
 
 <b>January 2024</b>: Excited to share that I have joined Google Bard in NYC as a Research Scientist!
 
