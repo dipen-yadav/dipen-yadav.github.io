@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am Alexandra, a Research Scientist at Google in the [Bard](https://bard.google.com/chat) team working on Natural Language Processing (Machine Learning). 
+I am Alexandra, a Research Scientist at Google in the [Gemini](https://bard.google.com/chat) team working on Natural Language Processing (Machine Learning). 
 
 Before that, I was a PhD student at the [University of Munich](https://www.en.uni-muenchen.de/index.html) supervised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My PhD research was mostly on combining information from various languages and domains to enable positive transfer during parameter-efficient fine-tuning of language models, especially under resource constraints.   
 
