@@ -25,9 +25,7 @@ Before starting the PhD, I graduated with a diploma (Bachelor and MEng) in [Elec
  
   <b>October 2024</b>: Our paper [Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization](https://arxiv.org/pdf/2311.09344) has been accepted to appear at the MRL workshop in EMNLP 2024! See you in Miami! 🌴
 
-
-
- <b>October 2024</b>: It's a wrap! I successfully defended my PhD thesis on Efficient Multilingual and Domain Adaptation of Language Models under Resource Constraints. My thesis will (hopefully) be online very soon!
+ <b>October 2024</b>: It's a wrap! 🎓 I successfully defended my PhD thesis on Efficient Multilingual and Domain Adaptation of Language Models under Resource Constraints. My thesis will (hopefully) be online  soon! 
 
  <b>April 2024</b>: Check out the [Gemini 1.5 Pro API](https://developers.googleblog.com/en/gemini-15-pro-now-available-in-180-countries-with-native-audio-understanding-system-instructions-json-mode-and-more/), a top-tier LLM according to the [LMSys Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) ([technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf))
 
