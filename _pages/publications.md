@@ -18,7 +18,7 @@ author_profile: true
               <li>
           <b><a  href="https://arxiv.org/abs/2311.09344.pdf">Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization</a></b> <br/> 
           <b>Alexandra Chronopoulou</b>, <a href="https://pfeiffer.ai/">Jonas Pfeiffer</a>, <a href="https://scholar.google.com/citations?user=LdNDZRcAAAAJ&hl=en">Joshua Maynez</a>, <a href="https://cindyxinyiwang.github.io/">Xinyi Wang</a>, <a href="https://www.ruder.io/">Sebastian Ruder</a>, <a href="https://sites.google.com/site/priyankaagr17">Priyanka Agrawal</a>  <br/>
-          arXiv 2023<br/>
+          EMNLP MLT Workshop 2024<br/>
         </li>
           <li>
           <b><a  href="https://aclanthology.org/2023.findings-eacl.153.pdf">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> [<a href="https://alexandra-chron.github.io/files/adaptersoup.pdf" class="link-in-list">slides</a>] <br/> 
@@ -39,31 +39,15 @@ author_profile: true
           NAACL 2022<br/>
           <!-- [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>] -->
         </li>
-          <li>
-          <b><a href="https://aclanthology.org/2021.naacl-main.16.pdf">Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation</a></b>
-          [<a href="https://github.com/alexandra-chron/lexical_xlm_relm" class="link-in-list">code</a>] <br/>
-          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
-          NAACL 2021<br/>
-          <!-- [<a href="https://www.aclweb.org/anthology/2021.naacl-main.16.pdf">paper</a>] -->
-        </li>
-        <li>
-          <b><a href="https://aclanthology.org/2020.emnlp-main.214.pdf">Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT</a></b>         [<a href="https://github.com/alexandra-chron/relm_unmt">code</a>]
-          [<a href="https://alexandra-chron.github.io/files/relm.pdf" class="link-in-list">slides</a>]<br/>
-          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
-          EMNLP 2020 <br/>
-          <!-- [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf" class="link-in-list">paper</a>] -->
-        </li>
-        <li>
-          <b><a href="https://aclanthology.org/N19-1213.pdf">An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</a></b>  [<a href="https://github.com/alexandra-chron/siatl" class="link-in-list">code</a>] <br/>
-          <b>Alexandra Chronopoulou</b>, <a href="https://cbaziotis.github.io/">Christos Baziotis</a>, <a href="https://slp-ntua.github.io/potam/">Alexandros Potamianos</a> <br/>
-          NAACL 2019<br/>
-          <!-- [<a href="https://www.aclweb.org/anthology/N19-1213.pdf" class="link-in-list">paper</a>] -->
-        </li>
-</ul>
 
 <font size="+2">Other Papers </font>
 
 <ul class="sparse-list">
+          <li>
+          <b><a  href="https://arxiv.org/pdf/2410.03617">What Matters for Model Merging at Scale?</a></b> <br/>
+          <b><a href="https://prateeky2806.github.io/">Prateek Yadav </a></b>, <a href="https://tuvllms.github.io/">Tu Vu</a>, <a href="https://scholar.google.com/citations?user=fKbPy2MAAAAJ&hl=en">Jonathan Lai</a>, Alexandra Chronopoulou, <a href="https://www.manaalfaruqui.com/">Manaal Faruqui</a>, <a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>, <a href="https://www.tsendeemts.com/">Tsendsuren Munkhdalai</a> <br/>
+          arxiv preprint <br/> 
+        </li>
           <li>
           <b><a  href="https://arxiv.org/pdf/2302.12979.pdf">Jointly Optimizing Translations and Speech Timing to Improve Isochrony in Automatic Dubbing</a></b> <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://thompsonb.github.io/">Brian Thompson</a>, <a href="http://mtresearcher.github.io/">Prashant Mathur</a>, <a href="https://scholar.google.com/citations?user=Cida6AcAAAAJ&hl=en">Yogesh Virkar</a>, <a href="https://surafelml.github.io/">Surafel M. Lakew</a>, <a href="https://www.marcellofederico.net/">Marcello Federico</a><br/>
