@@ -18,7 +18,7 @@ author_profile: true
               <li>
           <b><a  href="https://arxiv.org/abs/2311.09344.pdf">Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization</a></b> <br/> 
           <b>Alexandra Chronopoulou</b>, <a href="https://pfeiffer.ai/">Jonas Pfeiffer</a>, <a href="https://scholar.google.com/citations?user=LdNDZRcAAAAJ&hl=en">Joshua Maynez</a>, <a href="https://cindyxinyiwang.github.io/">Xinyi Wang</a>, <a href="https://www.ruder.io/">Sebastian Ruder</a>, <a href="https://sites.google.com/site/priyankaagr17">Priyanka Agrawal</a>  <br/>
-          EMNLP MLT Workshop 2024<br/>
+          EMNLP MRL Workshop 2024<br/>
         </li>
           <li>
           <b><a  href="https://aclanthology.org/2023.findings-eacl.153.pdf">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> [<a href="https://alexandra-chron.github.io/files/adaptersoup.pdf" class="link-in-list">slides</a>] <br/> 
@@ -39,13 +39,14 @@ author_profile: true
           NAACL 2022<br/>
           <!-- [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>] -->
         </li>
+</ul>
 
 <font size="+2">Other Papers </font>
 
 <ul class="sparse-list">
           <li>
           <b><a  href="https://arxiv.org/pdf/2410.03617">What Matters for Model Merging at Scale?</a></b> <br/>
-          <b><a href="https://prateeky2806.github.io/">Prateek Yadav </a></b>, <a href="https://tuvllms.github.io/">Tu Vu</a>, <a href="https://scholar.google.com/citations?user=fKbPy2MAAAAJ&hl=en">Jonathan Lai</a>, Alexandra Chronopoulou, <a href="https://www.manaalfaruqui.com/">Manaal Faruqui</a>, <a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>, <a href="https://www.tsendeemts.com/">Tsendsuren Munkhdalai</a> <br/>
+          <a href="https://prateeky2806.github.io/">Prateek Yadav </a>, <a href="https://tuvllms.github.io/">Tu Vu</a>, <a href="https://scholar.google.com/citations?user=fKbPy2MAAAAJ&hl=en">Jonathan Lai</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.manaalfaruqui.com/">Manaal Faruqui</a>, <a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>, <a href="https://www.tsendeemts.com/">Tsendsuren Munkhdalai</a> <br/>
           arxiv preprint <br/> 
         </li>
           <li>
