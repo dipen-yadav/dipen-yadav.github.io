@@ -22,7 +22,7 @@ Before pursuing my PhD, I completed MSc in Electrical Engineering from the [Univ
 - **Mathematics of Artificial Intelligence**, Winter Semester 2024/25, (part of MSc in Data Science) University of Greifswald.
 
 ### Selected Publications
-  - **Yadav, Dipendra, et al. (2024)** [Cross-Lingual Named Entity Recognition for Low-Resource Languages: A Hindi-Nepali Case Study Using Multilingual BERT Models](https://doi.org/) *MRL@EMNLP2024: Proceedings of the 4th Workshop on Multi-lingual Representation Learning at EMNLP 2024. Association for Computational Linguistics (ACL).*
+  - **Yadav, Dipendra, et al. (2024)** Cross-Lingual Named Entity Recognition for Low-Resource Languages: A Hindi-Nepali Case Study Using Multilingual BERT Models *MRL@EMNLP2024: Proceedings of the 4th Workshop on Multi-lingual Representation Learning at EMNLP 2024. Association for Computational Linguistics (ACL).*
   - **Yadav, Dipendra, et al. (2024)** [A Comparative Analysis on Machine Learning Techniques for Research Metadata: the ARDUOUS Case Study](https://doi.org/10.18420/inf2024_37) *INFORMATIK 2024. Gesellschaft für Informatik e.V.*
 
   - **Yadav, Dipendra (2023)** [Evaluating Dangerous Capabilities of Large Language Models: An Examination of Situational Awareness](https://doi.org/10.18420/ki2023-dc-10) *DC@KI2023: Proceedings of Doctoral Consortium at KI 2023. Gesellschaft für Informatik e.V.*
