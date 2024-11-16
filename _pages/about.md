@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Dipendra, a PhD Candidate at the [University of Greifswald](https://www.uni-greifswald.de/) with a background in Natural Language Processing (NLP) and software engineering. My doctoral research centers on advancing explainability methods for machine learning models, particularly large language models.
+I am Dipendra, a PhD Candidate at the [University of Greifswald](https://www.uni-greifswald.de/) with a background in Natural Language Processing (NLP) and software engineering. My doctoral research centers on advancing explainability methods for machine learning models, particularly large language models using neuro-symbolic reasoning.
 
 Before pursuing my PhD, I completed MSc in Electrical Engineering from the [University of Rostock](https://www.uni-rostock.de/), specializing in Information Technology. During my professional journey, I worked at [PlanetAI GmbH](https://planet-ai.de/) as a Software Engineer and contributed to Intelligent Document Analysis (IDA) software. I also held research roles at [University of Rostock](https://www.uni-rostock.de/) and [Market Logic Software](https://www.marketlogicsoftware.com/), focusing on neural density estimation, and NLP tools for business insights.
 
