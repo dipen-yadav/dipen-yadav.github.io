@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexandra Chronopoulou"
+title                    : "Dipendra Yadav"
 title_separator          : "-"
-name                     : &name "Alexandra Chronopoulou"
-description              : &description "Research Scientist at Google"
-url                      : https://alexandra-chron.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dipendra Yadav"
+description              : &description "Phd Student at University of Greifswald"
+url                      : https://dipen-yadav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alexandra-chron.github.io"
+repository               : "dipen-yadav.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexandra Chronopoulou"
+  name             : "Dipendra Yadav"
   avatar           : "profile.png"
-  bio              : "Research Scientist at Google"
-  location         : "New York, NY, USA"
+  bio              : "Phd student @ Uni Greifswald"
+  location         : "Rostock, Germany"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=XiwRCRIAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "alexandrachron@google.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ZzZLmJ0AAAAJ&hl=en"
+  email            : "dipendra.yadav@uni-greifswald.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alexandra-chron"
+  github           : "dipen-yadav"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "alexandra-chronopoulou"
+  linkedin         : "dipen-yadav"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "alexandraxron"
+  twitter          : "_dipendra_yadav"
   vine             :
   weibo            :
   xing             :
