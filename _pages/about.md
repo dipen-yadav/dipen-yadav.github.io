@@ -17,7 +17,6 @@ Before pursuing my PhD, I completed MSc in Electrical Engineering from the [Univ
 - **November 2024**: Organized the 8th International Workshop on Annotation of NER Data for Ubiquitous Systems at Informatik Festival 2024, Germany.
 - **October 2024**: Participated in the EuADS Summer School on Generative AI, Luxembourg.
 - **September 2024**: Selected for the fully-funded Swiss AI Safety Summer Camp 2023.
-- **January 2023**: Began my PhD program at the University of Greifswald.
 
 ### Teaching Assistant
 - **Mathematics of Artificial Intelligence**, Winter Semester 2024/25, (part of MSc in Data Science) University of Greifswald.
