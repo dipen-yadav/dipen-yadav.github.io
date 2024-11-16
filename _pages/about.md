@@ -10,10 +10,9 @@ redirect_from:
 
 I am Dipendra, a PhD Candidate at the [University of Greifswald](https://www.uni-greifswald.de/) with a background in Natural Language Processing (NLP) and software engineering. My doctoral research centers on advancing explainability methods for machine learning models, particularly large language models.
 
-Before pursuing my PhD, I completed an MSc in Electrical Engineering from the [University of Rostock](https://www.uni-rostock.de/), specializing in Information Technology. During my professional journey, I worked at [PlanetAI GmbH](https://planet-ai.de/) as a Software Engineer and contributed to Intelligent Document Analysis (IDA) software. I also held research roles at [University of Rostock](https://www.uni-rostock.de/) and [Market Logic Software](https://www.marketlogicsoftware.com/), focusing on neural density estimation, and NLP tools for business insights.
+Before pursuing my PhD, I completed MSc in Electrical Engineering from the [University of Rostock](https://www.uni-rostock.de/), specializing in Information Technology. During my professional journey, I worked at [PlanetAI GmbH](https://planet-ai.de/) as a Software Engineer and contributed to Intelligent Document Analysis (IDA) software. I also held research roles at [University of Rostock](https://www.uni-rostock.de/) and [Market Logic Software](https://www.marketlogicsoftware.com/), focusing on neural density estimation, and NLP tools for business insights.
 
 ### News
-
 - **November 2024**: Selected for a two-week immersion program for young researchers interested in start-up founding, hosted by the Foundation for Science Innovation and Development (FSID) at the Indian Institute of Science (IISc), Bengaluru, India.
 - **November 2024**: Organized the 8th International Workshop on Annotation of NER Data for Ubiquitous Systems at Informatik Festival 2024, Germany.
 - **October 2024**: Participated in the EuADS Summer School on Generative AI, Luxembourg.
@@ -21,7 +20,6 @@ Before pursuing my PhD, I completed an MSc in Electrical Engineering from the [U
 - **January 2023**: Began my PhD program at the University of Greifswald.
 
 ### Teaching Assistant
-
 - **Mathematics of Artificial Intelligence**, Winter Semester 2024/25, (part of MSc in Data Science) University of Greifswald.
 
 ### Selected Publications
