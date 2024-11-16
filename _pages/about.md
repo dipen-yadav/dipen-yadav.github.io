@@ -33,7 +33,4 @@ Before pursuing my PhD, I completed an MSc in Electrical Engineering from the [U
   - **Yadav, Dipendra, et al. (2020)** [Exploring Transfer Learning for Deep NLP Systems on Rarely Annotated Languages](https://arxiv.org/abs/2410.12879) *arXiv preprint 2410.12879.*
     
 ### More
-I am originally from Rajbiraj, Nepal, and I enjoy playing cricket, long walk in woods and meditating.
-
-
-If you’d like to collaborate or connect, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/dipen-yadav/) or email: dipendra.yadav@uni-greifswald.de.
+I am originally from Rajbiraj, Nepal, and I enjoy playing cricket, taking long walks in the woods, and meditating.
