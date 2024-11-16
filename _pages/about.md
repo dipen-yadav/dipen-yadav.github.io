@@ -14,9 +14,10 @@ Before pursuing my PhD, I completed MSc in Electrical Engineering from the [Univ
 
 ### News
 - **November 2024**: Selected for a two-week immersion program for young researchers interested in start-up founding, hosted by the Foundation for Science Innovation and Development (FSID) at the Indian Institute of Science (IISc), Bengaluru, India.
-- **November 2024**: Co-organized the 8th International Workshop on Annotation of NER Data for Ubiquitous Systems at Informatik Festival 2024, Germany.
-- **October 2024**: Participated in the EuADS Summer School on Generative AI, Luxembourg.
-- **September 2024**: Selected for the fully-funded Swiss AI Safety Summer Camp 2023.
+- **September 2024**: Co-organized the 8th International Workshop on Annotation of NER Data for Ubiquitous Systems at Informatik Festival 2024, Germany.
+- **June 2024**: Participated in the EuADS Summer School on Generative AI, Luxembourg.
+- **September 2023**: Selected for the fully-funded Swiss AI Safety Summer Camp 2023.
+- **July 2023**: Participated in Oxford Machine Learning Summer School 2023.
 
 ### Teaching Assistant
 - **Mathematics of Artificial Intelligence**, Winter Semester 2024/25, (part of MSc in Data Science) University of Greifswald.
